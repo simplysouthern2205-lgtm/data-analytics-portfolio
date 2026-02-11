@@ -1,0 +1,651 @@
+Order ID,Order Date,Region,State,City,Channel,Segment,Category,Product,Units,Unit Price,Revenue,Cost,Profit
+SO-2506-10000,06/03/2025,Midwest,OH,Columbus,Online,Consumer,Technology,Mouse,2,$17.43,$34.86,$23.21,$11.65
+SO-2408-10001,2024-08-16,South,TN,Nashville, Partner ,Small Business,Technology,Mouse,4,$18.43,$73.72,$45.02,$28.70
+SO-2404-10002,04/30/2024,South,TN,Nashville,Partner,Corporate,Office Supplies,PENS,4,,$15.52,$10.53,$4.99
+SO-2407-10003,07/29/2024,Northeast,NY,New York,In-Store,Small Business, Furniture ,Standing Desk,1,$288.51,$288.51,$170.26,$118.25
+SO-2403-10004,03/24/2024,West,AZ,Phoenix,Partner,Corporate,Technology,Laptop Stand,4,$28.74,$114.96,$72.70,$42.26
+SO-2412-10005,"Dec 16, 2024",West,AZ,Phoenix,Online,Corporate,Furniture,Filing Cabinet,5,$149.81,$749.05,$487.69,$261.36
+SO-2512-10006,"Dec 12, 2025",West,CA,Los Angeles,In-Store,Small Business,Furniture,Desk Chair,4,$140.31,$561.24,$355.45,$205.79
+SO-2512-10007,12/19/2025,West,CO,Denver,In-Store,Small Business,Office Supplies,Paper,3,$7.92,$23.76,$14.76,$9.00
+SO-2509-10008,09/17/2025,West,AZ,Phoenix,Online, Corporate ,Furniture,Filing Cabinet,4,$178.57,$714.28,$457.45,$256.83
+SO-2406-10009,06/19/2024,South,AL,Birmingham,In-Store,Corporate,Technology, Keyboard ,3,$42.85,$128.55,$98.34,$30.21
+SO-2408-10010,08/24/2024,Midwest,OH,Columbus,Online,Consumer, Technology ,Monitor,4,$191.13,$764.52,$552.66,$211.86
+SO-2405-10011,"May 29, 2024",Northeast,MA,Boston,In-Store,Small Business,Office Supplies,Pens,4,$3.83,$15.32,$10.34,$4.98
+SO-2507-10012,07/26/2025,Midwest,MI,Detroit,In-Store,Corporate,Office Supplies,Paper,1,$6.90,$6.90,$4.70,$2.20
+SO-2406-10013,06/15/2024,West,CO,Denver,Online,Corporate,Office Supplies, Stapler ,2,$13.51,$27.02,$15.11,$11.91
+SO-2407-10014,"Jul 31, 2024",South,GA,Atlanta,Partner,Corporate,Office Supplies,Pens,3,$4.54,$13.62,$9.43,$4.19
+SO-2505-10015,"May 06, 2025",Northeast,PA,Philadelphia,In-Store,Corporate,Technology,MONITOR,2,$178.59,$357.18,$245.69,$111.49
+SO-2407-10016,2024-07-29,South,AL,Birmingham,Partner,Corporate,Office Supplies,Binders,5,$10.71,$53.55,$33.30,$20.25
+SO-2501-10017,01/10/2025,Northeast,NY,New York,Online,Corporate,Furniture,Bookshelf,4,$102.91,$411.64,$257.02,$154.62
+SO-2409-10018,2024-09-02,Northeast,PA,Philadelphia,In-Store,Small Business,Furniture,Standing Desk,2,$310.18,$620.36,$380.39,$239.97
+SO-2409-10019,09/22/2024,Northeast,MA,Boston,ONLINE,Small Business,Furniture,Filing Cabinet,2,$153.06,$306.12,$192.09,$114.03
+SO-2407-10020,07/20/2024,Midwest,MN,Minneapolis, In-Store ,Consumer,Furniture,Bookshelf,9,$102.27,$920.43,$569.34,$351.09
+SO-2512-10021,"Dec 29, 2025",West,CA,Los Angeles,Online,Corporate,Technology,Monitor,5,$196.17,$980.85,$705.14,$275.71
+SO-2403-10022,"Mar 27, 2024",Northeast,NJ,Newark,Partner,Consumer,Furniture,Bookshelf,1,$78.83,$78.83,$51.93,$26.90
+SO-2509-10023,2025-09-02,Northeast,MA,Boston, In-Store ,SMALL BUSINESS,Office Supplies,Pens,5,$4.61,$23.05,$14.29,$8.76
+SO-2405-10024,2024-05-22,Midwest,OH,Columbus,In-Store,Consumer,Furniture,Standing Desk,1,$256.92,$256.92,$153.50,$103.42
+SO-2503-10025,2025-03-05,Northeast,NY,New York,Online,Consumer,Technology,Keyboard,2,$37.51,$75.02,$52.93,$22.09
+SO-2506-10026,"Jun 06, 2025",Midwest,MN,Minneapolis,Online,,FURNITURE,Filing Cabinet,4,$175.69,$702.76,$425.74,$277.02
+SO-2511-10027,11/29/2025,Northeast,NY,New York,Partner,Small Business,Office Supplies,Pens,2,$4.01,$8.02,$5.16,$2.86
+SO-2507-10028,07/29/2025,West,CA,Los Angeles,Online,,Furniture,Desk Chair,2,$120.18,$240.36,$160.15,$80.21
+SO-2409-10029,09/10/2024, West ,AZ,Phoenix,Partner,Small Business,Furniture,Standing Desk,2,$317.34,$634.68,$419.69,$214.99
+SO-2503-10030,2025-03-14,Midwest,OH,Columbus,Online,Consumer,Technology,Keyboard,4,$38.99,$155.96,$102.45,$53.51
+SO-2404-10031,04/06/2024,MIDWEST,IL,Chicago,In-Store,Corporate,Office Supplies,Binders,5,$8.92,$44.60,$30.44,$14.16
+SO-2404-10032,"Apr 04, 2024", Northeast ,MA,,Partner,Corporate,Office Supplies,Stapler,3,$14.92,$44.76,$27.33,$17.43
+SO-2506-10033,"Jun 08, 2025",South,FL,Miami,Online,Consumer,Furniture,Filing Cabinet,1,$157.13,$157.13,$107.80,$49.33
+SO-2503-10034,2025-03-08,Northeast,NY,New York,Partner,Corporate,Office Supplies,Binders,2,$9.31,$18.62,$12.77,$5.85
+SO-2503-10035,03/11/2025,West,WA,Seattle, Online ,Corporate,Furniture, Filing Cabinet ,1,$169.61,$169.61,$118.22,$51.39
+SO-2401-10036,"Jan 12, 2024",South,GA,Atlanta,In-Store, Small Business ,Technology,Mouse,1,$20.64,$20.64,$13.37,$7.27
+SO-2409-10037,"Sep 25, 2024",West,AZ,Phoenix,Online,Consumer,Furniture,Standing Desk,1,$258.88,$258.88,$192.81,$66.07
+SO-2410-10038,2024-10-04,Northeast,PA,,In-Store,Consumer,Furniture,Bookshelf,3,,$272.49,$189.18,$83.31
+SO-2504-10039,2025-04-02,Midwest,IL,Chicago,Online,Small Business,Office Supplies,Paper,4,$7.48,$29.92,$18.93,$10.99
+SO-2407-10040,2024-07-22,West,CO,Denver,Partner,Small Business,Furniture,Filing Cabinet,1,$182.56,$182.56,$113.01,$69.55
+SO-2503-10041,2025-03-17,Northeast,NJ,Newark,Online,Consumer,Technology,Mouse,7,$22.01,$154.07,$109.79,$44.28
+SO-2410-10042,10/02/2024,South,TN,Nashville,In-Store,Consumer,Furniture,Bookshelf,2,$92.66,$185.32,$113.33,$71.99
+SO-2401-10043,"Jan 02, 2024",Midwest,MI,Detroit, In-Store ,Corporate, Technology ,Monitor,1,$166.19,$166.19,$108.97,$57.22
+SO-2405-10044,"May 27, 2024",South,TN,Nashville,In-Store,Small Business,Technology,Keyboard,1,$36.97,$36.97,$22.79,$14.18
+SO-2406-10045,2024-06-07,South,TN,Nashville,Partner,Small Business,Office Supplies,Binders,2,$9.40,$18.80,$11.00,$7.80
+SO-2506-10046,2025-06-09,West,AZ,Phoenix,Partner,Corporate,Furniture,Filing Cabinet,4,$143.17,$572.68,$336.42,$236.26
+SO-2501-10047,01/20/2025,Northeast,NY,New York,In-Store,Small Business,Furniture,Standing Desk,2,$262.65,$525.30,$390.36,$134.94
+SO-2505-10048,"May 30, 2025", South ,GA,Atlanta,Partner,Consumer,Furniture,Standing Desk,3,,$897.09,$634.43,$262.66
+SO-2510-10049,10/27/2025,SOUTH,TN,Nashville, In-Store ,Corporate,Technology,Mouse,2,$22.07,$44.14,$32.49,$11.65
+SO-2405-10050,2024-05-30,West,CA,Los Angeles,In-Store,Corporate, Technology ,Monitor,3,$194.41,$583.23,$417.42,$165.81
+SO-2511-10051,"Nov 22, 2025", Midwest ,OH,Columbus,In-Store, Corporate ,Office Supplies,Stapler,3,$11.28,$33.84,$19.98,$13.86
+SO-2403-10052,03/28/2024,Midwest,MN,Minneapolis,IN-STORE,,Technology,Laptop Stand,6,$32.39,$194.34,$135.81,$58.53
+SO-2403-10053,2024-03-17,Midwest,MN,Minneapolis,Partner,Consumer,OFFICE SUPPLIES,Stapler,4,$14.91,$59.64,$36.26,$23.38
+SO-2501-10054,2025-01-08,NORTHEAST,PA,Philadelphia,ONLINE,,Technology,Keyboard,1,$41.23,$41.23,$26.81,$14.42
+SO-2405-10055,"May 24, 2024",West,CO,Denver,In-Store,Corporate,Office Supplies,Pens,5,$3.82,$19.10,$11.91,$7.19
+SO-2407-10056,07/19/2024,WEST,AZ,Phoenix,Partner,CONSUMER,Office Supplies,Binders,2,$8.50,$17.00,$11.26,$5.74
+SO-2503-10057,2025-03-14,MIDWEST,MI,Detroit,In-Store,Consumer,TECHNOLOGY,Mouse,3,$19.35,$58.05,$40.99,$17.06
+SO-2411-10058,"Nov 19, 2024",Midwest,IL,Chicago,Online,Corporate,Office Supplies,Binders,5,,$51.95,$29.73,$22.22
+SO-2402-10059,"Feb 20, 2024",West,CA,Los Angeles,Partner,Corporate,FURNITURE,Filing Cabinet,4,$179.83,$719.32,$505.20,$214.12
+SO-2502-10060,02/28/2025,West,WA,Seattle,In-Store,Corporate,Furniture,Bookshelf,5,$89.60,$448.00,$272.85,$175.15
+SO-2405-10061,05/02/2024,Midwest,MI,Detroit,Online,Small Business,Furniture,Bookshelf,4,$87.46,$349.84,$242.69,$107.15
+SO-2503-10062,03/13/2025,Northeast,NY,New York,Online,Small Business,Office Supplies,Stapler,2,$13.19,$26.38,$16.30,$10.08
+SO-2508-10063,2025-08-06,Northeast,MA,Boston,Online,Consumer,Office Supplies,Pens,1,,$4.28,$2.41,$1.87
+SO-2501-10064,"Jan 03, 2025",West,CO,Denver,Online, Small Business , Technology ,KEYBOARD,6,$38.51,$231.06,$141.22,$89.84
+SO-2401-10065,01/23/2024,Northeast,NY,New York,ONLINE, Consumer ,Technology,Keyboard,1,$38.61,$38.61,$26.17,$12.44
+SO-2504-10066,04/24/2025,West,CO,Denver,In-Store,Consumer,FURNITURE,Filing Cabinet,3,$136.00,$408.00,$293.90,$114.10
+SO-2510-10067,2025-10-24,South,AL,Birmingham,In-Store,Consumer,OFFICE SUPPLIES,Pens,3,$4.52,$13.56,$8.85,$4.71
+SO-2510-10068,2025-10-03,South,GA,Atlanta,In-Store,Small Business,Office Supplies,PENS,3,$4.58,$13.74,$7.63,$6.11
+SO-2509-10069,09/07/2025,West,CA,Los Angeles,Online,Consumer,Office Supplies,PAPER,2,$6.57,$13.14,$9.09,$4.05
+SO-2409-10070,"Sep 09, 2024",Midwest,MN,Minneapolis,Online,Corporate,Technology,Monitor,4,$187.80,$751.20,$514.99,$236.21
+SO-2511-10071,"Nov 14, 2025",Midwest,IL,Chicago,In-Store,Corporate, Office Supplies ,PENS,4,$4.49,$17.96,$11.70,$6.26
+SO-2410-10072,"Oct 26, 2024",Northeast,NJ,Newark,Partner,Small Business,Office Supplies,Binders,1,$10.64,$10.64,$6.43,$4.21
+SO-2410-10073,"Oct 29, 2024",South,AL,Birmingham,Online,Small Business,Technology,Keyboard,1,$37.73,$37.73,$24.21,$13.52
+SO-2502-10074,"Feb 06, 2025",West,WA,Seattle,Online,,Office Supplies,Stapler,1,$12.67,$12.67,$8.23,$4.44
+SO-2411-10075,11/17/2024,South,AL,Birmingham,Partner,Consumer,Technology,Mouse,2,$21.25,$42.50,$28.94,$13.56
+SO-2511-10076,"Nov 11, 2025",South,AL,Birmingham,Partner,Corporate,Technology,Keyboard,1,$36.22,$36.22,$26.60,$9.62
+SO-2405-10077,"May 06, 2024",Midwest,MI,Detroit,Partner,Consumer,Technology,Keyboard,3,$35.30,$105.90,$65.08,$40.82
+SO-2504-10078,2025-04-02,West,AZ,Phoenix,ONLINE,Corporate,Technology,Laptop Stand,1,$26.28,$26.28,$16.69,$9.59
+SO-2504-10079,"Apr 20, 2025",Midwest,MN,Minneapolis,ONLINE,Consumer,Office Supplies,Stapler,5,$12.01,$60.05,$38.66,$21.39
+SO-2509-10080,09/23/2025,Midwest,OH,Columbus,Online,Corporate,Furniture,Desk Chair,4,$145.53,$582.12,$432.40,$149.72
+SO-2403-10081,"Mar 07, 2024",Midwest,MI,Detroit,Online,Consumer,Technology,Mouse,4,$21.32,$85.28,$63.54,$21.74
+SO-2505-10082,2025-05-20,South,TN,Nashville,Online,Corporate,Furniture,Filing Cabinet,3,$181.78,$545.34,$356.16,$189.18
+SO-2411-10083,11/23/2024,Northeast,NY,,In-Store,Corporate,Furniture,Bookshelf,1,$98.70,$98.70,$62.75,$35.95
+SO-2411-10084,"Nov 29, 2024",South,AL,Birmingham,Online,Corporate,Technology,Keyboard,4,$36.96,$147.84,$89.61,$58.23
+SO-2406-10085,"Jun 26, 2024",South,GA,Atlanta,Online,Consumer,Technology,Mouse,1,$18.24,$18.24,$14.19,$4.05
+SO-2410-10086,"Oct 27, 2024",West,CO,Denver,In-Store,Corporate,Furniture, Standing Desk ,1,$322.31,$322.31,$193.58,$128.73
+SO-2508-10087,2025-08-15,Midwest,MI,Detroit,Online,Corporate,Technology,MONITOR,1,$163.75,$163.75,$105.48,$58.27
+SO-2402-10088,2024-02-07,South,TN,Nashville,Online,Consumer,Technology,Keyboard,2,$40.08,$80.16,$59.76,$20.40
+SO-2508-10089,"Aug 20, 2025",West,WA,Seattle,Online,CONSUMER,Technology,Monitor,4,$155.17,$620.68,$385.73,$234.95
+SO-2512-10090,2025-12-27,Midwest,OH,Columbus,PARTNER,Corporate,Technology,Monitor,4,$194.84,$779.36,$468.51,$310.85
+SO-2510-10091,10/29/2025,Northeast,NY,,Online,Consumer,Technology,MONITOR,1,$160.63,$160.63,$103.75,$56.88
+SO-2507-10092,07/15/2025,Midwest,MN,Minneapolis, In-Store ,Consumer,FURNITURE,BOOKSHELF,3,$81.49,$244.47,$174.84,$69.63
+SO-2502-10093,"Feb 23, 2025",West,CA,Los Angeles,In-Store,Small Business,TECHNOLOGY,Keyboard,4,$41.66,$166.64,$104.89,$61.75
+SO-2501-10094,2025-01-07,Midwest,MN,Minneapolis,Partner,Consumer,Office Supplies,Binders,5,$10.73,$53.65,$36.62,$17.03
+SO-2508-10095,"Aug 14, 2025",West,CO,Denver,In-Store, Corporate ,Office Supplies,Paper,2,$6.85,$13.70,$7.86,$5.84
+SO-2509-10096,2025-09-29,Northeast,MA,Boston,In-Store,Small Business,Office Supplies,Paper,2,$7.10,$14.20,$9.17,$5.03
+SO-2407-10097,"Jul 21, 2024",Northeast,MA,Boston,In-Store,Consumer,Technology,Monitor,1,$161.73,$161.73,$98.99,$62.74
+SO-2512-10098,"Dec 05, 2025",South,TN,Nashville,Online,Small Business,Technology,Mouse,4,$20.64,$82.56,$50.82,$31.74
+SO-2506-10099,"Jun 14, 2025",Northeast,NJ,Newark, Online ,Corporate,Furniture,Standing Desk,5,$329.62,"$1,648.10","$1,067.90",$580.20
+SO-2511-10100,"Nov 19, 2025",Midwest,IL,,Online,Small Business, Office Supplies ,PENS,6,$5.12,$30.72,$20.65,$10.07
+SO-2508-10101,08/19/2025,Midwest,IL,Chicago,Online,Corporate,TECHNOLOGY,LAPTOP STAND,4,$30.44,$121.76,$79.77,$41.99
+SO-2504-10102,2025-04-02,West,AZ,Phoenix,Partner,Corporate,Technology,Laptop Stand,4,$27.10,$108.40,$84.28,$24.12
+SO-2505-10103,2025-05-31,Northeast,NJ,Newark,Partner,Small Business,Technology,Mouse,3,$17.39,$52.17,$34.73,$17.44
+SO-2402-10104,"Feb 25, 2024", South ,GA,Atlanta,Partner,CORPORATE,Furniture,Standing Desk,4,$262.39,"$1,049.56",$700.01,$349.55
+SO-2406-10105,06/18/2024,Northeast,NY,New York,Partner,Small Business,Office Supplies,Paper,4,$6.35,$25.40,$17.71,$7.69
+SO-2405-10106,"May 27, 2024",Northeast,NY,New York,In-Store,Small Business,TECHNOLOGY,MONITOR,3,$161.56,$484.68,$314.80,$169.88
+SO-2502-10107,02/17/2025,West,WA,Seattle,Online,Small Business, Furniture ,Bookshelf,6,$93.12,$558.72,$342.95,$215.77
+SO-2501-10108,"Jan 03, 2025",Midwest,MI,Detroit,In-Store,Small Business,Technology,Keyboard,3,$43.49,$130.47,$96.32,$34.15
+SO-2405-10109,"May 29, 2024",South,FL,Miami,In-Store,Corporate,Furniture,Filing Cabinet,6,$171.41,"$1,028.46",$661.01,$367.45
+SO-2411-10110,"Nov 13, 2024",South,TN,Nashville,Partner,Small Business,Office Supplies,Pens,2,$4.65,$9.30,$6.45,$2.85
+SO-2501-10111,"Jan 07, 2025",Midwest,IL,Chicago,Online,Consumer,Furniture,Desk Chair,5,$119.13,$595.65,$387.77,$207.88
+SO-2412-10112,12/31/2024,West,WA,Seattle,PARTNER,Consumer,Furniture,Desk Chair,3,$111.36,$334.08,$199.81,$134.27
+SO-2409-10113,"Sep 06, 2024",WEST,AZ,Phoenix,Partner,Consumer, Furniture ,Standing Desk,2,$273.37,$546.74,$329.63,$217.11
+SO-2401-10114,"Jan 12, 2024",West,CA,Los Angeles,Online,Small Business,Office Supplies,Pens,5,$4.99,$24.95,$16.65,$8.30
+SO-2502-10115,02/19/2025, Midwest ,MN,Minneapolis,Online,Consumer,Furniture,Filing Cabinet,5,$147.92,$739.60,$495.80,$243.80
+SO-2506-10116,2025-06-14,Northeast,NY,New York,Partner,Small Business,Office Supplies,Paper,2,$7.23,$14.46,$9.38,$5.08
+SO-2505-10117,"May 04, 2025",West,WA,Seattle,Partner,Small Business,Furniture,Bookshelf,1,$78.21,$78.21,$54.99,$23.22
+SO-2409-10118,09/24/2024,South,TN,Nashville,Online,Small Business,Technology,Laptop Stand,4,$26.22,$104.88,$66.24,$38.64
+SO-2506-10119,"Jun 19, 2025", South ,GA,Atlanta,In-Store,Corporate,Technology,Monitor,1,$191.42,$191.42,$133.93,$57.49
+SO-2406-10120,06/12/2024,NORTHEAST,NY,New York,Partner,Corporate, Furniture ,Desk Chair,1,$117.11,$117.11,$71.96,$45.15
+SO-2507-10121,07/03/2025,Northeast,NJ,Newark,In-Store,CORPORATE,Technology,Keyboard,3,$38.54,$115.62,$88.55,$27.07
+SO-2403-10122,"Mar 20, 2024",South,GA,Atlanta,Partner,,Technology,Keyboard,4,$40.83,$163.32,$104.22,$59.10
+SO-2401-10123,2024-01-30,Northeast,NY,New York,Online,Consumer,Office Supplies,Paper,4,$6.17,$24.68,$17.01,$7.67
+SO-2506-10124,2025-06-30,Northeast,NY,New York,Partner,Consumer,Furniture,Desk Chair,3,$139.22,$417.66,$268.05,$149.61
+SO-2510-10125,2025-10-11,West,CA,Los Angeles,Online, Small Business ,Office Supplies,Pens,4,,$16.36,$9.08,$7.28
+SO-2503-10126,03/09/2025,Midwest,MN,Minneapolis,In-Store,Consumer,Office Supplies,Pens,1,$3.95,$3.95,$2.62,$1.33
+SO-2505-10127,05/30/2025,Midwest,MI,Detroit,In-Store,Corporate,Technology,Mouse,2,$21.28,$42.56,$27.99,$14.57
+SO-2508-10128,08/02/2025,South,TN,Nashville,Online,Small Business, Office Supplies ,Stapler,2,$13.06,$26.12,$14.75,$11.37
+SO-2401-10129,2024-01-05,South,FL,Miami,In-Store,Corporate,Office Supplies,Stapler,6,$11.05,$66.30,$38.47,$27.83
+SO-2508-10130,08/14/2025,South,TN,Nashville,Online,Corporate, Furniture ,Standing Desk,1,$342.03,$342.03,$228.33,$113.70
+SO-2512-10131,"Dec 14, 2025",Northeast,MA,Boston,Partner,CONSUMER, Technology ,Keyboard,2,$35.31,$70.62,$43.40,$27.22
+SO-2510-10132,2025-10-23,Midwest,MI,Detroit,Online,Corporate,Office Supplies,Stapler,8,,$117.28,$80.19,$37.09
+SO-2408-10133,2024-08-27,Northeast,PA,Philadelphia,In-Store,Consumer,Technology,Laptop Stand,2,$33.60,$67.20,$44.91,$22.29
+SO-2411-10134,"Nov 27, 2024",South,FL,Miami,Online,Corporate,Furniture,Bookshelf,1,$90.58,$90.58,$61.06,$29.52
+SO-2407-10135,07/15/2024,West,AZ,Phoenix,In-Store,Corporate,FURNITURE,Standing Desk,4,$266.34,"$1,065.36",$661.00,$404.36
+SO-2409-10136,2024-09-21,Northeast,MA,Boston,Partner,Consumer,Office Supplies,Binders,2,$10.30,$20.60,$12.41,$8.19
+SO-2410-10137,10/07/2024, Northeast ,NY,New York,Online,Consumer,Office Supplies,Stapler,3,$11.63,$34.89,$19.97,$14.92
+SO-2408-10138,08/15/2024,South,FL,Miami,Partner,Small Business,Office Supplies,Stapler,1,$12.85,$12.85,$7.09,$5.76
+SO-2503-10139,2025-03-16,MIDWEST,MN,Minneapolis,Partner,Small Business,Office Supplies,Pens,1,$4.16,$4.16,$2.75,$1.41
+SO-2510-10140,10/05/2025,West,WA,Seattle,Partner,Consumer,Furniture,Standing Desk,3,$316.15,$948.45,$600.57,$347.88
+SO-2502-10141,2025-02-23,West,WA,,Partner,Small Business,Technology,Keyboard,1,$36.99,$36.99,$25.22,$11.77
+SO-2408-10142,"Aug 11, 2024",Northeast,PA,Philadelphia,ONLINE,Small Business,Office Supplies,Stapler,1,$14.28,$14.28,$9.80,$4.48
+SO-2501-10143,"Jan 13, 2025",Northeast,PA,Philadelphia,Partner,Corporate,Office Supplies,Stapler,1,$13.15,$13.15,$8.65,$4.50
+SO-2412-10144,12/30/2024,West,CO,Denver,Partner,Consumer,Office Supplies,Pens,3,$4.35,$13.05,$8.67,$4.38
+SO-2511-10145,2025-11-22,Midwest,MI,Detroit, In-Store ,Small Business,Technology,Laptop Stand,2,$26.04,$52.08,$39.83,$12.25
+SO-2502-10146,02/05/2025,Midwest,IL,Chicago,In-Store, Consumer ,Office Supplies,Binders,2,$10.71,$21.42,$14.80,$6.62
+SO-2412-10147,"Dec 27, 2024", Northeast ,MA,Boston,Partner,Small Business,Office Supplies,Pens,1,$4.45,$4.45,$2.82,$1.63
+SO-2512-10148,2025-12-22,WEST,CO,Denver,In-Store,SMALL BUSINESS,Technology,Keyboard,4,$43.35,$173.40,$128.50,$44.90
+SO-2511-10149,2025-11-01,Midwest,MN,Minneapolis,In-Store,Corporate,Furniture,Standing Desk,4,$298.33,"$1,193.32",$764.75,$428.57
+SO-2402-10150,02/28/2024, West ,CO,,Online,Small Business,Technology,Mouse,4,$20.95,$83.80,$64.29,$19.51
+SO-2511-10151,"Nov 02, 2025", Midwest ,OH,Columbus,In-Store,Corporate,Furniture,Bookshelf,5,$93.58,$467.90,$347.09,$120.81
+SO-2507-10152,2025-07-01,South,AL,Birmingham, Online ,Small Business,Office Supplies,Pens,3,$4.86,$14.58,$8.78,$5.80
+SO-2404-10153,04/29/2024,South,FL,Miami,Partner,Consumer, Office Supplies ,Stapler,1,$13.74,$13.74,$8.65,$5.09
+SO-2512-10154,12/18/2025,Midwest,MN,Minneapolis,In-Store,Consumer,Office Supplies,Pens,3,$4.45,$13.35,$8.46,$4.89
+SO-2410-10155,10/30/2024,WEST,WA,Seattle,In-Store,Corporate,FURNITURE,Desk Chair,3,$116.74,$350.22,$232.75,$117.47
+SO-2402-10156,2024-02-16,West,CO,Denver,Partner,Small Business,Furniture,Desk Chair,3,$117.53,$352.59,$205.73,$146.86
+SO-2510-10157,10/02/2025,Midwest,IL,Chicago,Online,Corporate,Furniture,Filing Cabinet,2,$159.25,$318.50,$223.62,$94.88
+SO-2412-10158,"Dec 16, 2024",South,FL,Miami,In-Store, Corporate ,Technology,Laptop Stand,2,,$65.00,$49.67,$15.33
+SO-2506-10159,06/02/2025,South,FL,Miami,In-Store,Consumer,Technology,Monitor,1,$197.69,$197.69,$136.54,$61.15
+SO-2402-10160,"Feb 11, 2024",West,CA,Los Angeles, In-Store ,Small Business,Technology,Keyboard,4,$37.80,$151.20,$106.68,$44.52
+SO-2511-10161,11/04/2025, West ,CA,Los Angeles,Online,SMALL BUSINESS,Technology,Monitor,3,$158.85,$476.55,$356.44,$120.11
+SO-2404-10162,2024-04-13,West,WA,Seattle,Partner,Consumer,Furniture,Desk Chair,2,$118.78,$237.56,$168.59,$68.97
+SO-2409-10163,2024-09-21,South,TN,Nashville,In-Store,Consumer,Office Supplies,Paper,5,$6.72,$33.60,$22.63,$10.97
+SO-2508-10164,2025-08-04,West,CA,Los Angeles,Partner,Consumer,Technology,Mouse,2,$19.57,$39.14,$30.06,$9.08
+SO-2511-10165,"Nov 06, 2025",South,TN,Nashville,Online,Corporate,Furniture,Filing Cabinet,1,$157.42,$157.42,$107.15,$50.27
+SO-2512-10166,12/01/2025,West,CA,Los Angeles,Partner,,Office Supplies,Stapler,2,$11.87,$23.74,$13.60,$10.14
+SO-2407-10167,2024-07-10,South,AL,Birmingham,Online,Corporate,Office Supplies,Pens,3,$4.45,$13.35,$7.89,$5.46
+SO-2402-10168,2024-02-02,Northeast,NY,New York,Online,Consumer,Technology,Laptop Stand,3,$29.64,$88.92,$57.42,$31.50
+SO-2509-10169,2025-09-15,South,GA,Atlanta,Online, Corporate ,Technology,Monitor,4,$169.87,$679.48,$524.82,$154.66
+SO-2510-10170,10/06/2025,Midwest,MN,Minneapolis,In-Store,Corporate,Technology,Keyboard,4,$35.73,$142.92,$95.10,$47.82
+SO-2509-10171,09/06/2025,West,CO,Denver,In-Store,SMALL BUSINESS,Technology,Monitor,1,$168.78,$168.78,$130.86,$37.92
+SO-2501-10172,01/20/2025,South,AL,Birmingham,Partner,Consumer,Furniture, Bookshelf ,1,$92.28,$92.28,$59.60,$32.68
+SO-2402-10173,"Feb 13, 2024",West,AZ,Phoenix,In-Store,Consumer,Furniture,Desk Chair,4,$123.03,$492.12,$362.45,$129.67
+SO-2407-10174,2024-07-24,Northeast,PA,Philadelphia,Partner,Consumer,Furniture,Filing Cabinet,3,$152.64,$457.92,$327.67,$130.25
+SO-2501-10175,2025-01-29,Midwest,IL,Chicago,In-Store,Small Business,Furniture,Filing Cabinet,3,$158.33,$474.99,$336.15,$138.84
+SO-2411-10176,"Nov 24, 2024", South ,FL,Miami,In-Store,Small Business,Office Supplies,Pens,2,$4.35,$8.70,$5.46,$3.24
+SO-2501-10177,2025-01-02,Northeast,MA,Boston,In-Store,Small Business,Office Supplies,PENS,4,$3.94,$15.76,$10.57,$5.19
+SO-2406-10178,"Jun 08, 2024",Northeast,MA,Boston,In-Store,Small Business,OFFICE SUPPLIES,Stapler,2,$12.50,$25.00,$14.15,$10.85
+SO-2508-10179,"Aug 23, 2025", South ,FL,Miami,Partner,Consumer,Technology,Mouse,7,$17.56,$122.92,$93.02,$29.90
+SO-2409-10180,09/17/2024,Midwest,MI,Detroit, Online ,Corporate,Technology,Mouse,1,$22.67,$22.67,$16.94,$5.73
+SO-2505-10181,05/13/2025,Northeast,MA,Boston,Online,Small Business,Technology,Mouse,3,$17.16,$51.48,$34.31,$17.17
+SO-2511-10182,11/16/2025,WEST,CA,Los Angeles,Partner,Corporate,Furniture,Desk Chair,2,$120.52,$241.04,$178.99,$62.05
+SO-2409-10183,"Sep 19, 2024",Northeast,NJ,Newark,In-Store,Consumer, Office Supplies ,BINDERS,1,$11.39,$11.39,$7.96,$3.43
+SO-2511-10184,"Nov 24, 2025",South,GA,Atlanta, Partner ,Corporate,Technology,Laptop Stand,2,$25.99,$51.98,$38.25,$13.73
+SO-2503-10185,2025-03-27,West,CA,Los Angeles, Online ,Consumer,Technology,Monitor,4,$173.06,$692.24,$462.07,$230.17
+SO-2509-10186,09/25/2025,South,TN,Nashville,In-Store, Small Business ,Furniture,Standing Desk,4,$326.89,"$1,307.56",$775.68,$531.88
+SO-2408-10187,08/27/2024, Northeast ,NJ,Newark,In-Store,Consumer,Office Supplies,Stapler,3,$14.32,$42.96,$27.68,$15.28
+SO-2503-10188,"Mar 25, 2025",Midwest,OH,Columbus,Online,Corporate,Technology,Keyboard,3,$42.82,$128.46,$87.51,$40.95
+SO-2409-10189,2024-09-23,West,CO,Denver,In-Store,Consumer,Office Supplies, Pens ,4,$3.85,$15.40,$9.79,$5.61
+SO-2408-10190,"Aug 04, 2024",Midwest,MN,Minneapolis,Partner,Corporate,TECHNOLOGY, Mouse ,7,$17.91,$125.37,$89.46,$35.91
+SO-2408-10191,"Aug 31, 2024",Midwest,IL,Chicago,Online,Corporate,Technology,Keyboard,3,$45.64,$136.92,$88.60,$48.32
+SO-2503-10192,2025-03-28,Midwest,MN,Minneapolis,Partner,Corporate,Office Supplies,Paper,2,$7.69,$15.38,$10.72,$4.66
+SO-2508-10193,08/08/2025,Northeast,NJ,Newark,Online,Consumer,Office Supplies,BINDERS,1,$9.05,$9.05,$5.57,$3.48
+SO-2505-10194,"May 22, 2025",Northeast,MA,Boston, In-Store , Consumer , Furniture ,STANDING DESK,3,$272.69,$818.07,$559.11,$258.96
+SO-2502-10195,"Feb 21, 2025",Northeast,MA,Boston,PARTNER,Consumer,Furniture,STANDING DESK,1,$307.45,$307.45,$216.62,$90.83
+SO-2511-10196,11/12/2025,Midwest,MI,Detroit,In-Store, Consumer ,Technology,Laptop Stand,6,$26.30,$157.80,$116.35,$41.45
+SO-2504-10197,04/01/2025,Northeast,PA,Philadelphia,Partner,Consumer,Office Supplies,Pens,3,$4.76,$14.28,$9.09,$5.19
+SO-2501-10198,"Jan 25, 2025",South,FL,Miami, Partner ,Consumer,Furniture,Standing Desk,5,$328.48,"$1,642.40","$1,151.16",$491.24
+SO-2409-10199,"Sep 06, 2024",MIDWEST,IL,Chicago, Online ,Consumer,Furniture,Filing Cabinet,3,$157.42,$472.26,$284.70,$187.56
+SO-2512-10200,12/16/2025,Northeast,MA,Boston,Partner,Consumer,Office Supplies,Binders,6,$9.24,$55.44,$37.29,$18.15
+SO-2407-10201,"Jul 02, 2024",MIDWEST,IL,Chicago,Online,Corporate,Furniture,Filing Cabinet,4,$161.09,$644.36,$468.98,$175.38
+SO-2408-10202,2024-08-20,South,TN,Nashville, Online ,Consumer,Technology,Monitor,2,$158.93,$317.86,$241.32,$76.54
+SO-2506-10203,2025-06-22,West,CO,,Online,Corporate,Office Supplies,Paper,6,$7.91,$47.46,$28.87,$18.59
+SO-2411-10204,"Nov 24, 2024",SOUTH,FL,Miami,In-Store,Small Business,Technology,Laptop Stand,1,$27.65,$27.65,$18.76,$8.89
+SO-2510-10205,10/09/2025,South,FL,Miami,Online,Corporate, Furniture ,Standing Desk,2,$341.20,$682.40,$444.76,$237.64
+SO-2502-10206,"Feb 10, 2025",South,AL,Birmingham,In-Store,SMALL BUSINESS,Office Supplies,Binders,4,$9.79,$39.16,$24.50,$14.66
+SO-2402-10207,02/06/2024,South,GA,Atlanta,Partner,Consumer,Office Supplies,BINDERS,4,$11.24,$44.96,$28.93,$16.03
+SO-2510-10208,10/25/2025, Midwest ,IL,Chicago,Online,Consumer,Furniture,Desk Chair,7,$127.40,$891.80,$563.55,$328.25
+SO-2410-10209,10/27/2024, South ,FL,Miami,In-Store,Small Business,Office Supplies,Stapler,3,$13.34,$40.02,$27.61,$12.41
+SO-2408-10210,"Aug 14, 2024",MIDWEST,MI,Detroit,PARTNER,Corporate,Office Supplies,PAPER,3,$7.49,$22.47,$13.33,$9.14
+SO-2408-10211,2024-08-14,Northeast,PA,Philadelphia,Online,Small Business,Technology,Monitor,1,$186.08,$186.08,$122.05,$64.03
+SO-2410-10212,"Oct 03, 2024",West,CO,,In-Store,Consumer,Office Supplies,Binders,5,$8.98,$44.90,$31.11,$13.79
+SO-2506-10213,"Jun 13, 2025",Midwest,IL,Chicago, In-Store ,Corporate,Office Supplies,Pens,4,$4.56,$18.24,$11.69,$6.55
+SO-2511-10214,11/15/2025,MIDWEST,IL,Chicago,In-Store,Consumer,Furniture,Standing Desk,3,$344.03,"$1,032.09",$671.73,$360.36
+SO-2510-10215,2025-10-07,Northeast,PA,Philadelphia, Partner , Small Business ,Furniture,Desk Chair,1,,$139.30,$92.05,$47.25
+SO-2508-10216,"Aug 08, 2025",Northeast,NJ,Newark,Online,Corporate,Office Supplies,Paper,1,$6.80,$6.80,$4.30,$2.50
+SO-2506-10217,"Jun 22, 2025",Midwest,IL,Chicago,Partner,Small Business,Technology,Laptop Stand,4,$31.72,$126.88,$84.18,$42.70
+SO-2503-10218,03/22/2025,West,AZ,Phoenix,Partner,Corporate,Office Supplies,Stapler,3,$12.52,$37.56,$22.35,$15.21
+SO-2503-10219,"Mar 12, 2025",Northeast,NY,New York,Online,Consumer,Technology,Monitor,4,$205.31,$821.24,$528.61,$292.63
+SO-2503-10220,03/23/2025,South,FL,Miami,Partner,Small Business,Furniture,Filing Cabinet,3,$150.38,$451.14,$309.21,$141.93
+SO-2403-10221,"Mar 10, 2024",WEST,CO,Denver,Partner,CONSUMER,Technology, Monitor ,2,$155.19,$310.38,$211.54,$98.84
+SO-2503-10222,"Mar 07, 2025",South,TN,Nashville,In-Store,Corporate,Technology,Laptop Stand,3,$31.33,$93.99,$59.00,$34.99
+SO-2506-10223,2025-06-08,West,AZ,Phoenix,ONLINE,Consumer,Furniture,Desk Chair,5,$117.15,$585.75,$421.99,$163.76
+SO-2407-10224,"Jul 11, 2024",Midwest,MI,Detroit,In-Store,Consumer,Furniture,Filing Cabinet,4,$166.28,$665.12,$409.26,$255.86
+SO-2507-10225,"Jul 20, 2025",South,GA,Atlanta,Online,, Technology ,Mouse,1,$21.14,$21.14,$12.69,$8.45
+SO-2409-10226,"Sep 29, 2024",West,CA,Los Angeles,Partner,Small Business,Furniture,Desk Chair,2,$136.55,$273.10,$184.08,$89.02
+SO-2403-10227,03/18/2024,Northeast,MA,Boston,Online,Small Business,Technology,Mouse,2,$17.86,$35.72,$24.71,$11.01
+SO-2411-10228,2024-11-26,West,CO,Denver, Online ,Small Business, Furniture ,Filing Cabinet,4,$174.71,$698.84,$496.87,$201.97
+SO-2403-10229,"Mar 05, 2024",Northeast,PA,Philadelphia,IN-STORE,Consumer,Technology,Keyboard,1,$34.39,$34.39,$25.95,$8.44
+SO-2402-10230,02/25/2024,West,CO,Denver,Partner,Consumer,OFFICE SUPPLIES,Paper,6,$6.40,$38.40,$23.40,$15.00
+SO-2504-10231,04/11/2025,Northeast,MA,Boston,In-Store,Corporate,Office Supplies,Pens,5,$5.07,$25.35,$17.19,$8.16
+SO-2502-10232,2025-02-12,Midwest,MN,Minneapolis,Partner, Corporate ,Office Supplies,Pens,3,$4.73,$14.19,$9.24,$4.95
+SO-2502-10233,2025-02-09,South,AL,Birmingham,Partner,Corporate,Office Supplies,Pens,4,$4.05,$16.20,$9.83,$6.37
+SO-2412-10234,2024-12-25,South,FL,Miami,Partner,Consumer,Furniture,Filing Cabinet,4,$152.11,$608.44,$396.57,$211.87
+SO-2406-10235,06/08/2024,West,WA,Seattle,Online,SMALL BUSINESS,Technology,Monitor,3,,$514.77,$334.73,$180.04
+SO-2409-10236,2024-09-02,Northeast,NY,New York,Online,Corporate,Office Supplies, Binders ,2,$10.12,$20.24,$13.52,$6.72
+SO-2505-10237,2025-05-31,Midwest,OH,Columbus,Online,Consumer,Furniture,Filing Cabinet,3,$154.08,$462.24,$342.82,$119.42
+SO-2502-10238,"Feb 17, 2025",West,WA,Seattle,PARTNER,Small Business,Furniture,Bookshelf,4,$92.58,$370.32,$248.44,$121.88
+SO-2511-10239,"Nov 04, 2025", Northeast ,MA,Boston,Partner, Small Business ,Office Supplies,Paper,4,$7.08,$28.32,$16.72,$11.60
+SO-2407-10240,07/11/2024,Northeast,PA,Philadelphia,Partner,Consumer,Office Supplies,Stapler,4,$13.81,$55.24,$36.14,$19.10
+SO-2502-10241,2025-02-12,South,FL,Miami,In-Store,Corporate,Furniture,Bookshelf,2,$81.70,$163.40,$102.79,$60.61
+SO-2512-10242,2025-12-08,West,CO,Denver,In-Store,Corporate,Furniture,Standing Desk,5,$339.30,"$1,696.50","$1,214.52",$481.98
+SO-2509-10243,"Sep 15, 2025",South,TN,,Partner,Consumer,Office Supplies,Stapler,1,$12.41,$12.41,$8.00,$4.41
+SO-2507-10244,2025-07-19, South ,TN,Nashville,In-Store,Small Business,Office Supplies,Pens,4,$4.40,$17.60,$11.68,$5.92
+SO-2412-10245,12/23/2024,Northeast,MA,Boston,Online,Consumer,Furniture, Filing Cabinet ,3,$170.39,$511.17,$355.95,$155.22
+SO-2412-10246,2024-12-19,Midwest,IL,,Partner,Consumer, Furniture ,Desk Chair,1,$148.48,$148.48,$94.16,$54.32
+SO-2412-10247,2024-12-14,West,CO,Denver,Partner,Small Business,Furniture,Standing Desk,4,$280.30,"$1,121.20",$731.11,$390.09
+SO-2407-10248,"Jul 12, 2024",West,CA,Los Angeles, Online ,Small Business, Furniture ,Standing Desk,4,$293.54,"$1,174.16",$706.49,$467.67
+SO-2403-10249,03/01/2024,Midwest,OH,Columbus,Online,Corporate,Furniture,Standing Desk,1,$342.24,$342.24,$213.03,$129.21
+SO-2505-10250,2025-05-09,Midwest,MN,Minneapolis,Online, Small Business ,Office Supplies,Pens,4,$4.67,$18.68,$10.66,$8.02
+SO-2512-10251,"Dec 25, 2025",Northeast,NY,New York,Online,,FURNITURE,Filing Cabinet,1,$142.38,$142.38,$85.81,$56.57
+SO-2509-10252,2025-09-05, Northeast ,PA,Philadelphia,In-Store,Corporate,Furniture,Desk Chair,1,$131.87,$131.87,$91.43,$40.44
+SO-2411-10253,11/07/2024,Northeast,NY,New York,Online,Consumer,Furniture,Bookshelf,3,$76.83,$230.49,$168.79,$61.70
+SO-2403-10254,03/14/2024,Midwest,MN,Minneapolis,Online,Consumer, Office Supplies ,Pens,1,$4.25,$4.25,$2.64,$1.61
+SO-2503-10255,03/20/2025,West,CO,Denver,In-Store,Consumer,Office Supplies,Binders,3,$11.43,$34.29,$21.76,$12.53
+SO-2409-10256,"Sep 14, 2024",Midwest,IL,Chicago,Partner,Consumer,Technology,Mouse,3,$20.86,$62.58,$48.08,$14.50
+SO-2510-10257,10/15/2025,South,AL,Birmingham,Partner,Small Business,Furniture,Desk Chair,4,$111.48,$445.92,$286.52,$159.40
+SO-2411-10258,11/23/2024,Northeast,NY,New York, Online ,Corporate, Furniture ,Bookshelf,3,$96.53,$289.59,$208.59,$81.00
+SO-2512-10259,12/23/2025,Northeast,PA,Philadelphia,In-Store,CONSUMER,Technology,Keyboard,4,$34.68,$138.72,$103.28,$35.44
+SO-2405-10260,"May 25, 2024",Northeast,NJ,Newark,Partner,Consumer,Technology,LAPTOP STAND,1,$32.07,$32.07,$22.72,$9.35
+SO-2501-10261,2025-01-16,Northeast,MA,Boston,Online,Consumer,Technology, Laptop Stand ,4,$26.30,$105.20,$71.44,$33.76
+SO-2503-10262,03/25/2025,West,WA,Seattle,Online,Small Business,Technology,Mouse,1,$20.96,$20.96,$14.17,$6.79
+SO-2504-10263,04/25/2025,Northeast,MA,Boston,Online,Small Business,TECHNOLOGY,Monitor,2,$153.22,$306.44,$221.11,$85.33
+SO-2403-10264,03/02/2024,Midwest,MN,Minneapolis,Partner,Small Business,Technology,KEYBOARD,2,$45.68,$91.36,$65.01,$26.35
+SO-2412-10265,12/17/2024,Midwest,MI,Detroit,Partner, Small Business ,Furniture,Filing Cabinet,2,$181.72,$363.44,$229.29,$134.15
+SO-2503-10266,"Mar 02, 2025",South,AL,Birmingham,In-Store,Small Business,Office Supplies, Stapler ,3,$13.74,$41.22,$23.58,$17.64
+SO-2404-10267,"Apr 24, 2024",Northeast,NJ,Newark,Online,Corporate, Technology ,Monitor,3,$159.16,$477.48,$362.98,$114.50
+SO-2512-10268,2025-12-14,South,AL,Birmingham,Online,Small Business,Furniture,Bookshelf,2,$95.64,$191.28,$128.54,$62.74
+SO-2404-10269,2024-04-27,South,TN,Nashville, Partner ,Small Business,Furniture,Desk Chair,4,$141.70,$566.80,$377.62,$189.18
+SO-2404-10270,04/05/2024,South,TN,Nashville,Online,Corporate,Furniture,Filing Cabinet,1,$162.12,$162.12,$107.12,$55.00
+SO-2411-10271,11/03/2024,South,TN,Nashville, Online ,Small Business,Office Supplies,Paper,2,$6.72,$13.44,$7.42,$6.02
+SO-2412-10272,"Dec 15, 2024",Northeast,NJ,Newark,Partner,Small Business,Office Supplies,Pens,4,$4.57,$18.28,$12.57,$5.71
+SO-2402-10273,02/14/2024,South,FL,Miami,Partner,Corporate,Office Supplies,Pens,3,$4.32,$12.96,$8.56,$4.40
+SO-2409-10274,2024-09-17,South,FL,,In-Store,Consumer,FURNITURE,Bookshelf,6,$98.17,$589.02,$409.24,$179.78
+SO-2407-10275,2024-07-08,West,CA,Los Angeles,Online,Small Business,Furniture,Filing Cabinet,2,$141.44,$282.88,$202.58,$80.30
+SO-2401-10276,2024-01-15,Midwest,MN,Minneapolis,Online,Corporate,Office Supplies,Binders,5,$10.11,$50.55,$33.03,$17.52
+SO-2510-10277,2025-10-22,Northeast,NJ,Newark,Partner,Small Business,Furniture,Filing Cabinet,4,$177.90,$711.60,$434.78,$276.82
+SO-2412-10278,2024-12-03,West,CO,Denver,Partner,Consumer,Office Supplies, Stapler ,6,$12.57,$75.42,$51.36,$24.06
+SO-2504-10279,2025-04-24,Midwest,OH,Columbus,In-Store,Corporate,Furniture,Desk Chair,2,$118.73,$237.46,$151.10,$86.36
+SO-2402-10280,2024-02-16,MIDWEST,IL,Chicago,Partner,Consumer,Technology,Laptop Stand,1,$28.49,$28.49,$19.45,$9.04
+SO-2508-10281,"Aug 21, 2025",Northeast,PA,Philadelphia,Online,Small Business,Technology,Monitor,2,$156.42,$312.84,$207.80,$105.04
+SO-2408-10282,2024-08-31,South,GA,Atlanta,ONLINE,Small Business,Office Supplies,Stapler,1,$13.51,$13.51,$8.72,$4.79
+SO-2502-10283,"Feb 19, 2025",South,FL,Miami,In-Store,Consumer,Technology,Monitor,1,$180.47,$180.47,$119.67,$60.80
+SO-2407-10284,07/29/2024,Midwest,MI,Detroit,Online,Small Business,Technology,Monitor,1,$201.28,$201.28,$156.88,$44.40
+SO-2411-10285,"Nov 04, 2024",West,CO,Denver,Partner,Corporate,Technology,Laptop Stand,1,$30.61,$30.61,$19.30,$11.31
+SO-2504-10286,04/24/2025,Midwest,MI,Detroit,In-Store,Small Business,Office Supplies,Pens,2,$4.60,$9.20,$5.17,$4.03
+SO-2406-10287,"Jun 17, 2024",West,CA,Los Angeles,Partner,Corporate,Technology,Monitor,3,$201.54,$604.62,$390.80,$213.82
+SO-2510-10288,10/25/2025,Northeast,NY,New York,Online,Consumer,Office Supplies,PAPER,6,$6.78,$40.68,$23.60,$17.08
+SO-2405-10289,05/19/2024,Northeast,NY,New York,Online,Consumer,Office Supplies,Paper,2,$6.11,$12.22,$8.20,$4.02
+SO-2510-10290,10/26/2025,MIDWEST,IL,Chicago,In-Store,Corporate,Furniture,Bookshelf,1,$101.41,$101.41,$71.74,$29.67
+SO-2509-10291,09/04/2025,Midwest,OH,Columbus,In-Store,Corporate,Office Supplies,STAPLER,2,$14.14,$28.28,$15.92,$12.36
+SO-2412-10292,"Dec 03, 2024",West,CA,Los Angeles,Online,Consumer,Office Supplies,Binders,1,$10.18,$10.18,$7.11,$3.07
+SO-2412-10293,2024-12-18,South,AL,Birmingham,Partner,Small Business,Office Supplies,Pens,6,$4.53,$27.18,$18.38,$8.80
+SO-2510-10294,"Oct 29, 2025",Northeast,PA,Philadelphia,Partner,Small Business,Office Supplies,BINDERS,2,$10.93,$21.86,$13.59,$8.27
+SO-2501-10295,2025-01-06, West ,AZ,Phoenix,Online,Small Business,Technology,Monitor,5,$160.11,$800.55,$548.89,$251.66
+SO-2407-10296,2024-07-05,NORTHEAST,NJ,Newark,In-Store,Small Business, Office Supplies ,Paper,6,$7.25,$43.50,$24.72,$18.78
+SO-2505-10297,"May 25, 2025",Midwest,OH,Columbus,Online,Small Business,Office Supplies,Pens,1,,$4.53,$2.73,$1.80
+SO-2403-10298,03/08/2024,Midwest,MN,Minneapolis,Partner,Corporate,Technology,Keyboard,2,$37.88,$75.76,$46.93,$28.83
+SO-2408-10299,2024-08-17,Midwest,IL,Chicago,Online,Corporate,Office Supplies,Stapler,1,,$12.64,$8.69,$3.95
+SO-2410-10300,2024-10-12,South,FL,Miami,In-Store,Corporate,Furniture,Filing Cabinet,2,$147.60,$295.20,$192.57,$102.63
+SO-2401-10301,"Jan 05, 2024",Northeast,MA,Boston,In-Store,Consumer,Technology,Monitor,3,$204.52,$613.56,$401.28,$212.28
+SO-2501-10302,01/04/2025,NORTHEAST,PA,Philadelphia,Online,Corporate,Furniture,Filing Cabinet,2,$146.17,$292.34,$211.87,$80.47
+SO-2405-10303,"May 16, 2024",Northeast,NJ,Newark,In-Store,Consumer,Office Supplies,Binders,3,$10.54,$31.62,$21.21,$10.41
+SO-2502-10304,"Feb 10, 2025",Midwest,IL,Chicago,In-Store, Consumer ,Office Supplies,Stapler,5,,$68.50,$38.60,$29.90
+SO-2404-10305,2024-04-17, Northeast ,MA,Boston,Partner,, Furniture ,Desk Chair,1,$111.97,$111.97,$73.14,$38.83
+SO-2407-10306,2024-07-02,South,FL,Miami, Online ,Small Business,Office Supplies,Paper,3,$6.19,$18.57,$11.57,$7.00
+SO-2408-10307,2024-08-17,Northeast,NY,New York,Partner,Consumer,Furniture,Bookshelf,2,$99.16,$198.32,$147.75,$50.57
+SO-2507-10308,2025-07-23,Midwest,OH,Columbus,In-Store,Corporate,Office Supplies,Binders,6,$9.30,$55.80,$38.78,$17.02
+SO-2410-10309,10/02/2024,South,FL,Miami,In-Store,Corporate,Furniture,Desk Chair,4,$135.96,$543.84,$379.25,$164.59
+SO-2510-10310,2025-10-12,Midwest,MN,Minneapolis,Online,Consumer,Technology,KEYBOARD,4,$38.64,$154.56,$104.14,$50.42
+SO-2402-10311,2024-02-20,Midwest,MN,Minneapolis,In-Store,Small Business,Office Supplies,Pens,5,$4.71,$23.55,$13.26,$10.29
+SO-2504-10312,"Apr 26, 2025",Midwest,MN,Minneapolis,Partner,Corporate,Furniture, Bookshelf ,5,$88.79,$443.95,$306.35,$137.60
+SO-2511-10313,"Nov 06, 2025",West,WA,Seattle,Partner,Corporate, Furniture ,Filing Cabinet,4,$153.04,$612.16,$382.78,$229.38
+SO-2508-10314,08/26/2025,South,AL,Birmingham,In-Store,Small Business,Furniture,Bookshelf,4,$83.57,$334.28,$213.65,$120.63
+SO-2406-10315,"Jun 25, 2024",Northeast,MA,Boston,Online,Small Business,Office Supplies,Binders,2,,$20.12,$12.66,$7.46
+SO-2502-10316,"Feb 23, 2025",West,WA,Seattle,Online,Small Business,Furniture,Desk Chair,1,$123.05,$123.05,$80.32,$42.73
+SO-2403-10317,2024-03-31,Midwest,MN,Minneapolis,In-Store,Corporate, Office Supplies ,Binders,1,$9.56,$9.56,$6.41,$3.15
+SO-2406-10318,2024-06-02,Midwest,MN,Minneapolis,Online,Small Business,Furniture,Desk Chair,4,$128.01,$512.04,$363.03,$149.01
+SO-2507-10319,07/23/2025,Northeast,PA,Philadelphia,ONLINE,,Technology,Keyboard,3,$41.46,$124.38,$92.57,$31.81
+SO-2409-10320,09/28/2024,Midwest,IL,Chicago,In-Store, Consumer ,Furniture,Standing Desk,5,$282.58,"$1,412.90",$880.88,$532.02
+SO-2402-10321,02/14/2024,West,CA,Los Angeles,Partner,Corporate,Office Supplies,Pens,4,$4.39,$17.56,$11.74,$5.82
+SO-2409-10322,"Sep 01, 2024",West,AZ,Phoenix,In-Store,Small Business, Office Supplies ,Binders,4,$11.40,$45.60,$28.03,$17.57
+SO-2504-10323,"Apr 01, 2025",Northeast,MA,Boston,In-Store,CORPORATE,Furniture,Bookshelf,1,$78.20,$78.20,$46.42,$31.78
+SO-2503-10324,03/22/2025,West,CO,Denver,In-Store,Corporate,Furniture,Desk Chair,2,$114.70,$229.40,$160.39,$69.01
+SO-2407-10325,"Jul 24, 2024",Northeast,NY,,In-Store,Small Business,Technology,Laptop Stand,4,$29.91,$119.64,$89.54,$30.10
+SO-2403-10326,"Mar 19, 2024",South,FL,Miami,Partner,Consumer,Furniture,Bookshelf,1,$97.26,$97.26,$60.06,$37.20
+SO-2505-10327,"May 09, 2025",SOUTH,TN,Nashville,Online,Small Business,Office Supplies,Pens,2,$4.58,$9.16,$5.11,$4.05
+SO-2401-10328,2024-01-07,West,WA,Seattle,Online,Small Business,Technology,Mouse,2,$22.22,$44.44,$29.34,$15.10
+SO-2503-10329,"Mar 06, 2025",Midwest,MI,Detroit,PARTNER,Consumer,Office Supplies,Binders,1,$9.64,$9.64,$6.26,$3.38
+SO-2402-10330,"Feb 23, 2024",Midwest,MI,Detroit,Online,Small Business,Office Supplies,Stapler,1,$14.17,$14.17,$9.61,$4.56
+SO-2504-10331,2025-04-12,Midwest,MN,Minneapolis,Partner, Small Business ,FURNITURE,Filing Cabinet,2,$170.06,$340.12,$217.03,$123.09
+SO-2503-10332,"Mar 25, 2025",SOUTH,FL,Miami,In-Store,Consumer,Office Supplies,PAPER,2,$6.80,$13.60,$8.63,$4.97
+SO-2405-10333,2024-05-07,Northeast,NJ,,Online,Consumer,Technology,Laptop Stand,3,$27.33,$81.99,$51.85,$30.14
+SO-2511-10334,11/21/2025,South,TN,Nashville,Partner,Small Business,OFFICE SUPPLIES,Paper,4,$7.88,$31.52,$19.99,$11.53
+SO-2404-10335,04/07/2024,Midwest,OH,Columbus,Online,Consumer,Furniture,STANDING DESK,5,$268.11,"$1,340.55",$800.50,$540.05
+SO-2512-10336,12/13/2025,South,TN,Nashville,Online,Consumer,Office Supplies,Binders,4,$10.61,$42.44,$26.16,$16.28
+SO-2411-10337,2024-11-12,Northeast,NJ,Newark,In-Store,Corporate,Technology,KEYBOARD,4,$44.49,$177.96,$129.42,$48.54
+SO-2408-10338,08/16/2024,Northeast,MA,Boston,Partner,SMALL BUSINESS,Furniture,Standing Desk,3,$290.23,$870.69,$599.85,$270.84
+SO-2412-10339,12/26/2024,South,AL,Birmingham,Online,Small Business,Technology,Keyboard,3,$42.73,$128.19,$92.58,$35.61
+SO-2404-10340,2024-04-05,Northeast,NY,New York,Online,Corporate,Technology,Laptop Stand,1,$28.62,$28.62,$19.73,$8.89
+SO-2408-10341,2024-08-20,Midwest,MI,Detroit,Partner,Corporate,Furniture,Desk Chair,2,$118.34,$236.68,$168.06,$68.62
+SO-2412-10342,2024-12-24,South,GA,Atlanta,In-Store,Corporate,Office Supplies,Binders,1,$9.07,$9.07,$5.20,$3.87
+SO-2507-10343,2025-07-26,Northeast,PA,Philadelphia,In-Store,Consumer,Furniture,Bookshelf,2,$81.32,$162.64,$96.25,$66.39
+SO-2510-10344,"Oct 24, 2025",South,AL,Birmingham,Partner,Consumer,Furniture,Filing Cabinet,2,$158.14,$316.28,$188.67,$127.61
+SO-2404-10345,04/02/2024,West,AZ,Phoenix,In-Store,Consumer,Office Supplies,Binders,3,$10.67,$32.01,$21.13,$10.88
+SO-2507-10346,2025-07-02,West,AZ,Phoenix,Partner,Consumer,Office Supplies,Binders,3,$8.77,$26.31,$17.94,$8.37
+SO-2410-10347,"Oct 17, 2024",Midwest,MN,Minneapolis,In-Store,Small Business,Office Supplies, Pens ,1,$4.58,$4.58,$2.55,$2.03
+SO-2512-10348,"Dec 19, 2025",Northeast,MA,Boston, Partner ,Consumer,Office Supplies,Pens,2,$5.02,$10.04,$5.54,$4.50
+SO-2404-10349,"Apr 22, 2024",Northeast,NY,New York,In-Store,Small Business,Office Supplies,Pens,2,$4.95,$9.90,$6.93,$2.97
+SO-2403-10350,03/04/2024,South,GA,Atlanta,Online,,Furniture,Standing Desk,2,$276.04,$552.08,$386.92,$165.16
+SO-2504-10351,04/17/2025,Midwest,IL,,Partner,Consumer,Office Supplies,Pens,5,$4.65,$23.25,$15.20,$8.05
+SO-2406-10352,06/20/2024,South,FL,Miami,Online,,Technology,Laptop Stand,3,$25.78,$77.34,$48.47,$28.87
+SO-2505-10353,"May 06, 2025",Northeast,MA,Boston,ONLINE,Corporate,Office Supplies,PENS,5,$4.74,$23.70,$15.55,$8.15
+SO-2404-10354,"Apr 04, 2024",Midwest,IL,Chicago,Partner, Small Business ,Furniture,Desk Chair,4,$118.25,$473.00,$337.59,$135.41
+SO-2504-10355,04/22/2025,Midwest,OH,Columbus,Partner,,Technology,Laptop Stand,3,$26.71,$80.13,$61.59,$18.54
+SO-2403-10356,"Mar 10, 2024",Northeast,NJ,Newark,In-Store,Consumer,Technology,Monitor,2,$193.38,$386.76,$277.67,$109.09
+SO-2512-10357,2025-12-28,Northeast,MA,Boston,Online,Corporate,Furniture,Filing Cabinet,1,$162.95,$162.95,$120.36,$42.59
+SO-2511-10358,"Nov 10, 2025",West,AZ,Phoenix,Partner,Corporate,Technology,Laptop Stand,3,$34.02,$102.06,$73.58,$28.48
+SO-2502-10359,02/24/2025,Midwest,IL,Chicago,Partner,Corporate,Technology,Laptop Stand,6,$30.92,$185.52,$140.64,$44.88
+SO-2412-10360,"Dec 09, 2024",West,WA,Seattle,Online,Corporate,Technology,KEYBOARD,1,$34.99,$34.99,$23.93,$11.06
+SO-2407-10361,"Jul 07, 2024",Northeast,NJ,Newark,In-Store,Corporate,Technology,Keyboard,2,$35.44,$70.88,$43.06,$27.82
+SO-2502-10362,2025-02-07,Midwest,OH,Columbus,In-Store,Corporate,Technology,Keyboard,1,$36.68,$36.68,$26.04,$10.64
+SO-2504-10363,"Apr 10, 2025",Midwest,OH,Columbus,Partner,Small Business,Office Supplies,STAPLER,3,$13.10,$39.30,$21.62,$17.68
+SO-2405-10364,"May 18, 2024",Midwest,MI,, In-Store ,SMALL BUSINESS,Furniture,Desk Chair,2,$148.88,$297.76,$206.42,$91.34
+SO-2510-10365,10/09/2025,West,CA,Los Angeles,Partner,Corporate,Furniture,Bookshelf,4,$88.48,$353.92,$245.05,$108.87
+SO-2405-10366,05/01/2024,South,TN,Nashville,Partner,Corporate,Technology,Monitor,7,$190.33,"$1,332.31","$1,009.28",$323.03
+SO-2405-10367,"May 20, 2024", West ,AZ,Phoenix,Online,Corporate,Furniture,Standing Desk,5,$320.59,"$1,602.95","$1,018.33",$584.62
+SO-2510-10368,"Oct 04, 2025",Northeast,MA,Boston,Online,Corporate,Furniture,Desk Chair,3,$149.40,$448.20,$334.79,$113.41
+SO-2512-10369,"Dec 27, 2025",South,TN,Nashville,In-Store,Small Business,Furniture,Filing Cabinet,2,$167.13,$334.26,$215.49,$118.77
+SO-2506-10370,2025-06-12,Midwest,MI,Detroit,ONLINE,Consumer,Office Supplies,Stapler,1,$14.26,$14.26,$9.54,$4.72
+SO-2501-10371,01/03/2025,Midwest,OH,Columbus,Partner,Consumer,Furniture,Bookshelf,6,$100.99,$605.94,$431.49,$174.45
+SO-2501-10372,01/05/2025,Midwest,MI,Detroit,In-Store,Corporate,Technology,Keyboard,2,$41.44,$82.88,$55.74,$27.14
+SO-2510-10373,10/14/2025,West,CO,Denver,Online,Corporate,Technology,Mouse,1,$18.21,$18.21,$12.40,$5.81
+SO-2502-10374,2025-02-05,South,AL,Birmingham,IN-STORE,SMALL BUSINESS,Technology,Laptop Stand,7,$31.44,$220.08,$148.36,$71.72
+SO-2508-10375,2025-08-03,West,AZ,Phoenix,In-Store,Corporate,Furniture,Desk Chair,2,$120.62,$241.24,$173.82,$67.42
+SO-2512-10376,2025-12-29,Midwest,MI,Detroit,Online,Corporate,Office Supplies,Paper,2,$7.78,$15.56,$8.78,$6.78
+SO-2412-10377,"Dec 15, 2024",Northeast,MA,Boston,In-Store,Corporate,Furniture,Desk Chair,5,$140.70,$703.50,$496.82,$206.68
+SO-2410-10378,"Oct 22, 2024",West,AZ,Phoenix,Online,Consumer,Technology,Keyboard,5,$42.54,$212.70,$155.79,$56.91
+SO-2502-10379,2025-02-17,Midwest,IL,Chicago,Online,Small Business,Technology,Mouse,6,$20.00,$120.00,$86.42,$33.58
+SO-2402-10380,"Feb 04, 2024",Midwest,OH,Columbus,Partner, Small Business ,Office Supplies,Pens,3,$4.72,$14.16,$9.39,$4.77
+SO-2506-10381,2025-06-05,West,AZ,Phoenix,In-Store,Small Business,Office Supplies,Stapler,1,$13.43,$13.43,$7.94,$5.49
+SO-2401-10382,"Jan 24, 2024",Northeast,MA,Boston,Partner,Small Business,Technology,Mouse,4,$19.15,$76.60,$58.21,$18.39
+SO-2403-10383,2024-03-01,South,GA,Atlanta, In-Store ,Small Business,Technology,Keyboard,3,$34.03,$102.09,$63.80,$38.29
+SO-2412-10384,"Dec 04, 2024",South,GA,Atlanta,Partner,Small Business,Furniture,Filing Cabinet,3,$141.30,$423.90,$270.37,$153.53
+SO-2408-10385,2024-08-16,NORTHEAST,MA,Boston,Online,Consumer,Furniture,Standing Desk,3,$280.34,$841.02,$589.75,$251.27
+SO-2502-10386,"Feb 03, 2025",Midwest,MN,Minneapolis,Partner,SMALL BUSINESS,Technology,Mouse,3,$22.72,$68.16,$41.99,$26.17
+SO-2403-10387,"Mar 14, 2024",West,WA,Seattle,PARTNER,Corporate,Furniture,Desk Chair,6,$141.85,$851.10,$636.34,$214.76
+SO-2407-10388,2024-07-17,Northeast,NJ,Newark,Online,Small Business,Technology,LAPTOP STAND,3,$27.21,$81.63,$50.62,$31.01
+SO-2410-10389,"Oct 30, 2024",South,TN,Nashville,Partner, Consumer ,Office Supplies,PENS,5,$4.86,$24.30,$14.10,$10.20
+SO-2507-10390,"Jul 04, 2025",South,GA,Atlanta,In-Store,Small Business,Technology,Keyboard,1,$39.01,$39.01,$27.91,$11.10
+SO-2412-10391,12/29/2024,MIDWEST,OH,Columbus,In-Store,Consumer,Furniture,Bookshelf,2,$103.26,$206.52,$125.93,$80.59
+SO-2403-10392,"Mar 25, 2024",West,CA,,In-Store,Corporate,Technology,Mouse,2,$22.14,$44.28,$33.62,$10.66
+SO-2407-10393,2024-07-16,West,WA,Seattle,Partner,CORPORATE,Office Supplies,Binders,1,$10.01,$10.01,$5.82,$4.19
+SO-2501-10394,2025-01-23,WEST,CO,Denver,Online,Consumer,Office Supplies,Stapler,2,$11.56,$23.12,$12.76,$10.36
+SO-2510-10395,"Oct 01, 2025",South,TN,Nashville,Partner,Corporate,Office Supplies, Pens ,1,$5.01,$5.01,$3.16,$1.85
+SO-2405-10396,2024-05-09, West ,WA,Seattle,Online,Corporate,Office Supplies, Pens ,2,$4.09,$8.18,$4.93,$3.25
+SO-2409-10397,"Sep 02, 2024",West,CO,Denver,Partner,SMALL BUSINESS,Office Supplies,Paper,3,$7.75,$23.25,$13.38,$9.87
+SO-2408-10398,08/22/2024,West,CO,,ONLINE,Corporate,Furniture,Standing Desk,1,$265.65,$265.65,$185.68,$79.97
+SO-2502-10399,02/15/2025,Northeast,NY,New York,Online,Consumer,Office Supplies, Paper ,1,$7.85,$7.85,$4.55,$3.30
+SO-2512-10400,12/28/2025,South,TN,Nashville,Online,Consumer,Technology,Mouse,4,$17.91,$71.64,$52.75,$18.89
+SO-2401-10401,"Jan 03, 2024", Northeast ,MA,Boston,Online,CONSUMER,FURNITURE,Bookshelf,2,$79.35,$158.70,$116.77,$41.93
+SO-2507-10402,2025-07-27,South,GA,Atlanta,Partner,Consumer,Furniture,Desk Chair,3,$136.29,$408.87,$283.76,$125.11
+SO-2404-10403,"Apr 23, 2024",South,AL,Birmingham,Partner,Consumer,Furniture,Filing Cabinet,6,$146.01,$876.06,$608.16,$267.90
+SO-2411-10404,11/05/2024,Midwest,IL,Chicago, In-Store ,Corporate,Office Supplies,Pens,5,$4.96,$24.80,$16.80,$8.00
+SO-2512-10405,12/10/2025,Northeast,NJ,Newark,Partner,Consumer,Furniture,Bookshelf,3,$97.25,$291.75,$174.85,$116.90
+SO-2403-10406,03/01/2024,West,CO,Denver,PARTNER,Small Business,Technology,Keyboard,3,$44.99,$134.97,$100.33,$34.64
+SO-2409-10407,09/15/2024,South,AL,Birmingham,In-Store,Corporate,Technology,Mouse,4,$18.07,$72.28,$49.12,$23.16
+SO-2504-10408,"Apr 29, 2025",South,FL,Miami,Partner,Corporate,Technology,Mouse,1,$17.96,$17.96,$13.84,$4.12
+SO-2412-10409,"Dec 02, 2024",Midwest,OH,Columbus,Online, Consumer , Office Supplies ,Stapler,1,$13.14,$13.14,$7.90,$5.24
+SO-2501-10410,"Jan 10, 2025",Midwest,IL,Chicago,Online,Small Business,Furniture,Standing Desk,5,$264.43,"$1,322.15",$907.77,$414.38
+SO-2502-10411,"Feb 21, 2025",South,TN,Nashville,Partner,Small Business,Office Supplies,Pens,4,$4.53,$18.12,$11.73,$6.39
+SO-2405-10412,"May 01, 2024",South,AL,Birmingham,Online,Small Business, Office Supplies ,Binders,1,$10.75,$10.75,$7.34,$3.41
+SO-2512-10413,"Dec 08, 2025",WEST,WA,Seattle,Online,,Furniture,Bookshelf,1,$96.82,$96.82,$56.61,$40.21
+SO-2403-10414,"Mar 09, 2024",Midwest,OH,Columbus,Partner,Consumer,Furniture,Desk Chair,6,$133.81,$802.86,$474.39,$328.47
+SO-2410-10415,10/07/2024,South,FL,Miami,In-Store,Consumer,Office Supplies,Pens,3,$4.57,$13.71,$9.03,$4.68
+SO-2404-10416,04/07/2024,South,FL,Miami,In-Store,,Technology,Laptop Stand,2,$29.17,$58.34,$39.68,$18.66
+SO-2511-10417,11/17/2025,Midwest,OH,Columbus,In-Store,Corporate,Office Supplies,Stapler,4,$14.27,$57.08,$33.33,$23.75
+SO-2407-10418,"Jul 03, 2024",South,AL,Birmingham,Online,Consumer,Office Supplies,Paper,3,$6.27,$18.81,$12.21,$6.60
+SO-2410-10419,2024-10-29,West,CA,Los Angeles,Online,CORPORATE,Office Supplies,Stapler,4,$12.03,$48.12,$27.11,$21.01
+SO-2506-10420,2025-06-19,Northeast,PA,Philadelphia,Partner,Consumer,Technology,Keyboard,6,$35.65,$213.90,$138.03,$75.87
+SO-2501-10421,01/28/2025,Northeast,MA,Boston,In-Store,Consumer,Technology,Laptop Stand,3,$33.88,$101.64,$72.85,$28.79
+SO-2504-10422,"Apr 28, 2025",West,AZ,Phoenix,In-Store,Corporate,Office Supplies,Paper,2,,$12.30,$7.46,$4.84
+SO-2408-10423,"Aug 24, 2024",South,GA,Atlanta,In-Store,Corporate,Technology,Laptop Stand,4,$26.33,$105.32,$72.28,$33.04
+SO-2402-10424,2024-02-28,South,GA,Atlanta,Online,Small Business,Office Supplies,Paper,4,$6.50,$26.00,$16.03,$9.97
+SO-2404-10425,2024-04-22,Northeast,NJ,Newark,Online,Corporate,Furniture,Standing Desk,3,$305.65,$916.95,$665.57,$251.38
+SO-2504-10426,04/24/2025,South,AL,Birmingham,In-Store, Small Business ,Furniture,Standing Desk,2,$300.93,$601.86,$397.92,$203.94
+SO-2512-10427,2025-12-21,Northeast,NY,New York,In-Store,Corporate,Technology,Monitor,6,$158.28,$949.68,$704.69,$244.99
+SO-2512-10428,"Dec 04, 2025",Midwest,OH,Columbus,Partner,CONSUMER, Furniture ,DESK CHAIR,5,$134.96,$674.80,$465.21,$209.59
+SO-2402-10429,02/12/2024,Northeast,NJ,Newark,In-Store,Small Business,Furniture,Standing Desk,1,$313.59,$313.59,$232.29,$81.30
+SO-2503-10430,"Mar 25, 2025",Northeast,MA,Boston,Online,Consumer,Office Supplies,Stapler,3,$14.55,$43.65,$24.54,$19.11
+SO-2505-10431,"May 10, 2025",Midwest,MI,Detroit,Online,Consumer,Furniture,Standing Desk,1,$339.54,$339.54,$197.66,$141.88
+SO-2504-10432,2025-04-26,West,AZ,Phoenix,Online,Corporate,Furniture,FILING CABINET,2,$168.27,$336.54,$206.20,$130.34
+SO-2508-10433,2025-08-05,West,AZ,Phoenix,In-Store,CONSUMER,Office Supplies,Binders,2,$8.59,$17.18,$9.91,$7.27
+SO-2409-10434,2024-09-24,Northeast,NY,New York,Online,Small Business,Office Supplies,Binders,4,$10.31,$41.24,$25.62,$15.62
+SO-2402-10435,"Feb 28, 2024",South,FL,Miami,Online,Consumer,Technology,KEYBOARD,4,$44.91,$179.64,$112.16,$67.48
+SO-2406-10436,"Jun 03, 2024",West,WA,Seattle,Partner,Corporate,Office Supplies, Stapler ,4,$14.12,$56.48,$33.21,$23.27
+SO-2410-10437,"Oct 22, 2024",West,CA,Los Angeles,Online,Consumer,Office Supplies,Stapler,4,$14.61,$58.44,$33.05,$25.39
+SO-2404-10438,2024-04-29,West,CA,Los Angeles,In-Store,Consumer,Furniture,Filing Cabinet,5,$176.73,$883.65,$589.55,$294.10
+SO-2512-10439,"Dec 09, 2025",WEST,AZ,Phoenix,In-Store,Small Business,Furniture,Standing Desk,3,$294.23,$882.69,$569.28,$313.41
+SO-2504-10440,04/28/2025,Northeast,NJ,Newark, Online ,Small Business,Technology,Monitor,2,$189.57,$379.14,$278.07,$101.07
+SO-2504-10441,2025-04-21,Midwest,IL,Chicago,In-Store,Consumer,Technology,Laptop Stand,3,$28.55,$85.65,$66.13,$19.52
+SO-2512-10442,"Dec 26, 2025",West,CA,Los Angeles,In-Store,Corporate,Office Supplies,Stapler,3,,$37.80,$21.55,$16.25
+SO-2502-10443,2025-02-19, West ,AZ,Phoenix,Partner,Corporate,Office Supplies,Pens,2,,$9.36,$6.38,$2.98
+SO-2503-10444,2025-03-23,South,TN,Nashville,In-Store,CONSUMER,Furniture,Filing Cabinet,2,$181.22,$362.44,$253.62,$108.82
+SO-2507-10445,2025-07-17,WEST,CA,Los Angeles,Partner,Consumer,Furniture, Standing Desk ,3,$290.45,$871.35,$548.66,$322.69
+SO-2511-10446,11/12/2025,NORTHEAST,MA,Boston,Partner,Consumer,Technology,MONITOR,3,$188.02,$564.06,$345.01,$219.05
+SO-2406-10447,"Jun 26, 2024",Northeast,NY,New York,Online,,Furniture,FILING CABINET,1,$170.82,$170.82,$99.21,$71.61
+SO-2401-10448,"Jan 25, 2024",Northeast,NY,New York,Online,Consumer,Office Supplies,Pens,1,$4.05,$4.05,$2.77,$1.28
+SO-2505-10449,05/05/2025,South,AL,Birmingham,In-Store,Corporate,Office Supplies,Stapler,1,$12.35,$12.35,$7.76,$4.59
+SO-2405-10450,2024-05-14,South,GA,Atlanta, Partner ,Corporate,Technology,Keyboard,1,$37.18,$37.18,$22.66,$14.52
+SO-2512-10451,2025-12-10,Midwest,MN,,In-Store,Corporate,Office Supplies,Pens,2,$4.63,$9.26,$6.47,$2.79
+SO-2407-10452,07/14/2024,Midwest,IL,Chicago,Partner,Corporate,Office Supplies,Binders,2,$10.88,$21.76,$14.59,$7.17
+SO-2508-10453,2025-08-19,West,WA,Seattle,Online, Consumer ,Furniture,Desk Chair,2,$142.66,$285.32,$166.12,$119.20
+SO-2401-10454,2024-01-25,West,WA,Seattle,Online,,Technology,Laptop Stand,6,$30.19,$181.14,$110.55,$70.59
+SO-2511-10455,"Nov 09, 2025",Midwest,OH,Columbus,In-Store, Consumer ,Furniture, Filing Cabinet ,4,$165.50,$662.00,$418.98,$243.02
+SO-2411-10456,2024-11-13,Northeast,NY,New York,In-Store,Corporate,Office Supplies,Stapler,1,$14.05,$14.05,$9.47,$4.58
+SO-2510-10457,"Oct 06, 2025",Midwest,IL,Chicago,Online,Corporate,Furniture,Bookshelf,2,$78.90,$157.80,$95.58,$62.22
+SO-2505-10458,05/02/2025,South,AL,Birmingham,Partner,Corporate,Technology,Mouse,6,$21.70,$130.20,$98.51,$31.69
+SO-2506-10459,06/09/2025,South,GA,Atlanta,Online,Corporate, Furniture ,Desk Chair,4,$134.82,$539.28,$386.45,$152.83
+SO-2411-10460,"Nov 18, 2024",Midwest,MN,Minneapolis,Partner,Consumer,Furniture,Filing Cabinet,4,$172.96,$691.84,$510.36,$181.48
+SO-2403-10461,2024-03-05,South,TN,Nashville,In-Store,Small Business,Office Supplies,BINDERS,2,$8.89,$17.78,$12.07,$5.71
+SO-2405-10462,"May 28, 2024",South,FL,Miami,In-Store,Small Business,Furniture,Desk Chair,1,$143.73,$143.73,$96.06,$47.67
+SO-2411-10463,"Nov 19, 2024",South,GA,Atlanta,ONLINE,Small Business,OFFICE SUPPLIES,Binders,2,$11.22,$22.44,$14.60,$7.84
+SO-2409-10464,2024-09-05,West,WA,Seattle,In-Store,Small Business,Office Supplies,Pens,7,$4.34,$30.38,$20.39,$9.99
+SO-2504-10465,"Apr 21, 2025",South,GA,Atlanta,In-Store, Small Business ,Technology,Laptop Stand,4,$29.75,$119.00,$84.34,$34.66
+SO-2409-10466,09/10/2024,Northeast,MA,Boston,Online,Corporate,Furniture,Standing Desk,2,$337.38,$674.76,$450.21,$224.55
+SO-2511-10467,"Nov 06, 2025",West,WA,Seattle,In-Store,Consumer,Furniture,Bookshelf,6,$84.95,$509.70,$354.77,$154.93
+SO-2411-10468,11/30/2024,South,AL,Birmingham,Online,Corporate,Furniture,Bookshelf,7,$76.77,$537.39,$393.85,$143.54
+SO-2401-10469,01/13/2024, Midwest ,MI,Detroit,Partner,Corporate,Technology,Monitor,6,$186.35,"$1,118.10",$728.01,$390.09
+SO-2501-10470,"Jan 24, 2025",Northeast,NY,New York,IN-STORE,Corporate, Furniture ,Standing Desk,2,$322.92,$645.84,$446.60,$199.24
+SO-2411-10471,11/23/2024,Northeast,MA,Boston,Online,Small Business,Furniture,Bookshelf,2,$94.60,$189.20,$115.29,$73.91
+SO-2412-10472,"Dec 14, 2024",South,TN,Nashville, In-Store ,Consumer,Technology,Laptop Stand,6,$32.54,$195.24,$147.71,$47.53
+SO-2509-10473,"Sep 21, 2025",South,GA,Atlanta,Online,Corporate,Office Supplies,Binders,1,$11.15,$11.15,$7.64,$3.51
+SO-2508-10474,2025-08-13,South,AL,Birmingham,In-Store,Corporate,Technology,Laptop Stand,5,$28.29,$141.45,$94.50,$46.95
+SO-2506-10475,2025-06-14,Midwest,MI,Detroit,Online,Corporate,Furniture,Bookshelf,2,$91.97,$183.94,$132.61,$51.33
+SO-2512-10476,2025-12-13,West,CO,Denver,Online,Small Business, Office Supplies ,PENS,2,$4.10,$8.20,$4.96,$3.24
+SO-2410-10477,"Oct 24, 2024",South,TN,Nashville,Partner,Small Business,Furniture,Filing Cabinet,4,$137.13,$548.52,$335.28,$213.24
+SO-2501-10478,"Jan 24, 2025",Midwest,IL,Chicago,Partner,Small Business,Office Supplies,Paper,6,$6.40,$38.40,$26.21,$12.19
+SO-2507-10479,"Jul 13, 2025",South,TN,Nashville,Partner,Consumer,Office Supplies,Binders,3,$9.40,$28.20,$16.90,$11.30
+SO-2508-10480,2025-08-05,Northeast,NJ,Newark,In-Store,Consumer,Furniture, Standing Desk ,2,,$542.98,$385.04,$157.94
+SO-2408-10481,"Aug 08, 2024", South ,AL,,Partner,Corporate,Furniture,Desk Chair,5,$145.64,$728.20,$510.56,$217.64
+SO-2409-10482,2024-09-22,Northeast,MA,Boston,Partner,Corporate,OFFICE SUPPLIES,Pens,3,$4.67,$14.01,$9.39,$4.62
+SO-2406-10483,"Jun 18, 2024",Northeast,NJ,Newark, Partner ,Consumer,Office Supplies,Stapler,7,$11.25,$78.75,$52.45,$26.30
+SO-2404-10484,2024-04-22,Midwest,OH,Columbus,Partner,Corporate,Furniture,Standing Desk,3,$275.88,$827.64,$617.36,$210.28
+SO-2507-10485,"Jul 26, 2025",Northeast,PA,Philadelphia,Partner,Corporate,Technology,Mouse,3,$19.92,$59.76,$45.21,$14.55
+SO-2409-10486,"Sep 08, 2024",Northeast,PA,Philadelphia,Online,Consumer,Technology,Keyboard,2,$41.65,$83.30,$55.02,$28.28
+SO-2407-10487,"Jul 16, 2024",Northeast,NJ,Newark,Partner, Corporate ,Technology,Laptop Stand,2,$28.22,$56.44,$36.08,$20.36
+SO-2410-10488,"Oct 10, 2024",SOUTH,FL,Miami,In-Store,Small Business,Office Supplies,Stapler,3,$12.91,$38.73,$23.86,$14.87
+SO-2403-10489,"Mar 12, 2024",Northeast,NJ,Newark, In-Store , Consumer ,Furniture,Standing Desk,1,$300.01,$300.01,$193.56,$106.45
+SO-2508-10490,2025-08-09,Midwest,MN,Minneapolis,Partner,Consumer,Technology,Monitor,2,$191.06,$382.12,$273.67,$108.45
+SO-2401-10491,2024-01-05,South,TN,Nashville,Partner,Consumer,Technology,Laptop Stand,2,,$68.12,$42.79,$25.33
+SO-2407-10492,"Jul 05, 2024",Midwest,MN,Minneapolis,In-Store,Consumer,Technology,Keyboard,1,$38.07,$38.07,$26.61,$11.46
+SO-2401-10493,01/21/2024,Northeast,NY,New York,In-Store,Small Business,Furniture,Bookshelf,3,$98.27,$294.81,$197.12,$97.69
+SO-2401-10494,"Jan 18, 2024",Midwest,MN,Minneapolis,In-Store,Corporate,Office Supplies,Binders,2,$9.25,$18.50,$11.87,$6.63
+SO-2512-10495,12/07/2025,South,FL,Miami,In-Store,Consumer,Furniture,Desk Chair,1,$121.25,$121.25,$73.63,$47.62
+SO-2503-10496,03/23/2025,South,AL,Birmingham,In-Store,Consumer,OFFICE SUPPLIES,Paper,3,$7.49,$22.47,$12.83,$9.64
+SO-2505-10497,2025-05-23,South,AL,Birmingham,Partner,Corporate,Furniture,Desk Chair,3,$140.63,$421.89,$247.56,$174.33
+SO-2405-10498,05/07/2024,West,CA,Los Angeles,Online,Consumer,Furniture,Standing Desk,3,$308.72,$926.16,$545.98,$380.18
+SO-2407-10499,07/21/2024,Midwest,OH,Columbus,IN-STORE,Consumer,Office Supplies,Stapler,2,$11.67,$23.34,$13.47,$9.87
+SO-2512-10500,12/23/2025,West,AZ,Phoenix,Online,Consumer,Technology,Laptop Stand,4,$27.77,$111.08,$86.13,$24.95
+SO-2507-10501,2025-07-14,Northeast,MA,Boston,Partner,CONSUMER,TECHNOLOGY,Mouse,3,$19.66,$58.98,$45.00,$13.98
+SO-2507-10502,07/28/2025, West ,CO,Denver,Partner,Consumer,Office Supplies,Binders,4,$10.47,$41.88,$26.25,$15.63
+SO-2512-10503,12/19/2025,West,WA,Seattle, Partner ,CONSUMER,Furniture,Filing Cabinet,1,$143.51,$143.51,$105.75,$37.76
+SO-2508-10504,08/16/2025,Midwest,MN,Minneapolis,Partner,CONSUMER,Furniture,Standing Desk,1,$306.28,$306.28,$227.62,$78.66
+SO-2401-10505,01/05/2024,Midwest,MN,Minneapolis,Partner,Small Business, Office Supplies ,Binders,2,$11.47,$22.94,$13.34,$9.60
+SO-2410-10506,"Oct 08, 2024",Midwest,MI,Detroit,Online,Corporate,Furniture,Bookshelf,1,$98.12,$98.12,$66.02,$32.10
+SO-2401-10507,"Jan 05, 2024",South,AL,Birmingham,Online,Small Business,Technology,Mouse,6,$20.43,$122.58,$86.49,$36.09
+SO-2409-10508,2024-09-19,Northeast,NY,New York,Online,Small Business,Technology,Monitor,3,,$600.96,$407.67,$193.29
+SO-2410-10509,"Oct 11, 2024",West,AZ,Phoenix,In-Store,Consumer,Office Supplies,Paper,2,$6.98,$13.96,$9.19,$4.77
+SO-2405-10510,"May 28, 2024",West,AZ,Phoenix,Partner,Corporate,Technology,MONITOR,3,$174.66,$523.98,$358.98,$165.00
+SO-2401-10511,01/27/2024, South ,AL,Birmingham,ONLINE,,Technology,Laptop Stand,6,$33.21,$199.26,$137.72,$61.54
+SO-2509-10512,"Sep 15, 2025",South,AL,Birmingham,Online,Consumer,Technology, Laptop Stand ,2,$33.37,$66.74,$43.54,$23.20
+SO-2408-10513,08/17/2024,South,AL,Birmingham,In-Store,,Furniture,Bookshelf,3,$85.57,$256.71,$169.57,$87.14
+SO-2503-10514,"Mar 30, 2025",SOUTH,AL,Birmingham,Online,,Office Supplies,Binders,5,$11.40,$57.00,$37.94,$19.06
+SO-2407-10515,"Jul 19, 2024",West,CO,Denver,In-Store,Consumer,Technology,Mouse,1,$21.46,$21.46,$14.67,$6.79
+SO-2507-10516,07/30/2025,South,FL,Miami,In-Store,Consumer,Technology,Keyboard,4,$44.97,$179.88,$123.13,$56.75
+SO-2405-10517,"May 23, 2024",West,AZ,Phoenix,In-Store,Small Business,Office Supplies,Binders,1,$11.15,$11.15,$6.75,$4.40
+SO-2410-10518,10/18/2024,Midwest,MI,Detroit,In-Store,Small Business,Technology,Keyboard,5,$37.76,$188.80,$120.23,$68.57
+SO-2509-10519,2025-09-11,Midwest,MI,Detroit,Online,CORPORATE,Technology,Keyboard,4,$40.51,$162.04,$116.76,$45.28
+SO-2511-10520,11/09/2025,Midwest,OH,Columbus,Online,Consumer,Furniture,Desk Chair,3,$126.89,$380.67,$254.11,$126.56
+SO-2503-10521,"Mar 12, 2025",South,FL,Miami,Online,Corporate, Office Supplies ,Pens,8,$4.73,$37.84,$24.86,$12.98
+SO-2508-10522,"Aug 09, 2025",Midwest,IL,Chicago,Online, Consumer ,Furniture,Filing Cabinet,5,$152.79,$763.95,$466.56,$297.39
+SO-2501-10523,2025-01-28,Northeast,NY,New York,In-Store,Small Business,Office Supplies,Paper,3,$6.50,$19.50,$13.30,$6.20
+SO-2501-10524,2025-01-07,South,GA,Atlanta,Partner,Consumer,Furniture,Filing Cabinet,1,,$141.30,$85.51,$55.79
+SO-2501-10525,2025-01-13,South,GA,Atlanta, In-Store ,Small Business,Technology,Laptop Stand,2,$26.94,$53.88,$37.67,$16.21
+SO-2505-10526,05/29/2025,NORTHEAST,MA,Boston,Partner,Small Business,Office Supplies,Pens,3,$4.02,$12.06,$7.70,$4.36
+SO-2408-10527,"Aug 30, 2024",South,TN,Nashville,ONLINE,Consumer,Technology,Laptop Stand,2,$30.38,$60.76,$37.09,$23.67
+SO-2511-10528,11/17/2025,Midwest,OH,Columbus,Online,Corporate,Office Supplies,Stapler,1,$13.34,$13.34,$8.20,$5.14
+SO-2412-10529,"Dec 12, 2024",Northeast,NY,New York,Partner,Consumer,Furniture,Standing Desk,2,$272.83,$545.66,$386.47,$159.19
+SO-2404-10530,"Apr 18, 2024",West,AZ,Phoenix,Partner,Small Business,Office Supplies,Stapler,5,$11.99,$59.95,$34.36,$25.59
+SO-2510-10531,10/02/2025,West,WA,Seattle,Online,Corporate,FURNITURE,Desk Chair,6,$129.90,$779.40,$550.39,$229.01
+SO-2408-10532,"Aug 22, 2024",South,FL,Miami,Partner,Consumer,Office Supplies,PAPER,1,$7.03,$7.03,$4.66,$2.37
+SO-2502-10533,2025-02-11,West,AZ,Phoenix,Online,Consumer,Furniture,Filing Cabinet,2,$140.38,$280.76,$173.47,$107.29
+SO-2408-10534,"Aug 15, 2024",West,CA,Los Angeles,Online,Corporate,Furniture,Bookshelf,3,$103.32,$309.96,$215.12,$94.84
+SO-2510-10535,"Oct 05, 2025",West,CO,Denver,Online, Corporate ,Office Supplies,Pens,3,$3.93,$11.79,$6.59,$5.20
+SO-2508-10536,2025-08-26,West,AZ,Phoenix,In-Store,Consumer,Office Supplies,Paper,2,,$14.70,$9.18,$5.52
+SO-2402-10537,02/16/2024,Northeast,NY,New York, Partner ,Consumer,Technology,Laptop Stand,2,$26.63,$53.26,$38.64,$14.62
+SO-2501-10538,"Jan 10, 2025", South ,FL,Miami,IN-STORE,Small Business,Office Supplies,Paper,2,$6.40,$12.80,$8.86,$3.94
+SO-2408-10539,2024-08-28,Midwest,OH,Columbus,Partner,Consumer,Technology,Laptop Stand,3,$27.11,$81.33,$56.76,$24.57
+SO-2403-10540,03/27/2024,Midwest,IL,Chicago,In-Store,Small Business,OFFICE SUPPLIES,Stapler,2,$11.40,$22.80,$13.30,$9.50
+SO-2412-10541,2024-12-29,Midwest,MN,Minneapolis,Partner,Small Business,Furniture,Standing Desk,3,$282.99,$848.97,$510.64,$338.33
+SO-2506-10542,"Jun 28, 2025",Northeast,PA,Philadelphia,In-Store,Corporate,Furniture,Standing Desk,8,$300.34,"$2,402.72","$1,469.32",$933.40
+SO-2410-10543,2024-10-24,South,TN,Nashville,In-Store,Corporate,Technology,Laptop Stand,2,$27.73,$55.46,$38.38,$17.08
+SO-2411-10544,11/09/2024,South,FL,Miami,In-Store,Corporate,Technology,Monitor,4,$192.47,$769.88,$524.57,$245.31
+SO-2409-10545,09/18/2024, South ,FL,Miami,Partner,Corporate,Furniture,Standing Desk,3,$329.33,$987.99,$696.49,$291.50
+SO-2511-10546,2025-11-17,South,FL,Miami,In-Store,Consumer,Furniture,Desk Chair,1,$123.82,$123.82,$84.62,$39.20
+SO-2407-10547,"Jul 20, 2024",Midwest,MI,Detroit,In-Store,Corporate,Technology,Mouse,4,$21.31,$85.24,$54.00,$31.24
+SO-2510-10548,10/18/2025,South,AL,Birmingham,Online,Small Business,Technology, Laptop Stand ,1,$33.30,$33.30,$22.50,$10.80
+SO-2402-10549,"Feb 25, 2024",Northeast,PA,Philadelphia,In-Store,Corporate, Technology ,Mouse,1,$22.52,$22.52,$14.86,$7.66
+SO-2409-10550,"Sep 18, 2024",Northeast,MA,Boston,Online, Corporate , Technology ,Mouse,6,$17.66,$105.96,$73.31,$32.65
+SO-2402-10551,2024-02-05,West,WA,Seattle, Partner ,Small Business,Technology,Mouse,3,,$64.20,$42.23,$21.97
+SO-2408-10552,"Aug 26, 2024",Northeast,MA,Boston,In-Store,SMALL BUSINESS,Office Supplies,Pens,1,$4.21,$4.21,$2.44,$1.77
+SO-2408-10553,"Aug 31, 2024",Midwest,IL,Chicago,Online, Corporate ,Office Supplies,Binders,2,$10.04,$20.08,$13.61,$6.47
+SO-2503-10554,2025-03-08,Midwest,MN,Minneapolis,Online,Corporate,Technology, Mouse ,4,$22.40,$89.60,$69.67,$19.93
+SO-2505-10555,"May 05, 2025",Northeast,NJ,Newark,In-Store,Consumer,Furniture,Desk Chair,2,$130.76,$261.52,$172.55,$88.97
+SO-2501-10556,"Jan 31, 2025",South,TN,Nashville,Online,Consumer,Technology,Keyboard,3,$41.18,$123.54,$87.45,$36.09
+SO-2404-10557,2024-04-03,Midwest,MN,Minneapolis,Online,Corporate,Office Supplies,Binders,2,$9.88,$19.76,$11.50,$8.26
+SO-2406-10558,06/22/2024,SOUTH,TN,Nashville,ONLINE,Small Business, Technology ,Laptop Stand,4,$28.09,$112.36,$77.85,$34.51
+SO-2412-10559,12/09/2024,WEST,CA,Los Angeles,Partner,SMALL BUSINESS,Technology,Monitor,2,$199.49,$398.98,$302.41,$96.57
+SO-2405-10560,2024-05-20,Midwest,MI,Detroit,In-Store,Small Business,Office Supplies, Binders ,5,$11.02,$55.10,$33.33,$21.77
+SO-2511-10561,11/09/2025,South,FL,Miami,Online,Small Business,Office Supplies, Stapler ,3,$11.13,$33.39,$22.86,$10.53
+SO-2501-10562,01/18/2025,West,AZ,Phoenix,Partner,Consumer,Technology,Monitor,5,$165.56,$827.80,$564.81,$262.99
+SO-2407-10563,07/21/2024,South,TN,Nashville,Partner,CONSUMER,Office Supplies,Binders,3,$10.54,$31.62,$20.60,$11.02
+SO-2406-10564,2024-06-24,South,AL,Birmingham,Partner,Small Business, Furniture ,Standing Desk,1,$278.28,$278.28,$190.40,$87.88
+SO-2411-10565,11/04/2024,Midwest,MI,Detroit, Partner ,Consumer,Furniture,Standing Desk,1,$319.48,$319.48,$200.17,$119.31
+SO-2406-10566,2024-06-17,Northeast,NJ,Newark,Online,,Furniture,Bookshelf,3,$91.79,$275.37,$180.71,$94.66
+SO-2403-10567,03/12/2024,South,GA,Atlanta,Online,Small Business,Furniture,Desk Chair,1,$133.58,$133.58,$80.83,$52.75
+SO-2407-10568,07/05/2024,South,GA,,Online,Corporate,Furniture, Standing Desk ,2,$294.59,$589.18,$395.08,$194.10
+SO-2402-10569,2024-02-21,Midwest,IL,Chicago,Online,,Office Supplies, Binders ,3,$9.61,$28.83,$19.79,$9.04
+SO-2410-10570,"Oct 14, 2024",Midwest,MI,Detroit, Partner ,Consumer,Technology,MOUSE,3,$22.21,$66.63,$45.26,$21.37
+SO-2405-10571,05/26/2024,South,FL,Miami,In-Store,Small Business,Office Supplies,Binders,1,$8.77,$8.77,$6.04,$2.73
+SO-2506-10572,06/06/2025,West,CO,Denver,Online, Consumer ,Technology,Keyboard,1,$45.26,$45.26,$29.36,$15.90
+SO-2412-10573,12/22/2024,Midwest,MN,Minneapolis,Partner,Corporate,Office Supplies,Pens,3,$3.94,$11.82,$7.28,$4.54
+SO-2406-10574,"Jun 09, 2024",South,FL,,Partner,Consumer,Technology,Keyboard,1,$35.91,$35.91,$27.44,$8.47
+SO-2404-10575,2024-04-06,West,WA,Seattle,In-Store,Corporate,Technology,Keyboard,2,$43.43,$86.86,$63.41,$23.45
+SO-2401-10576,"Jan 02, 2024",Midwest,IL,Chicago,In-Store,Corporate,Technology,Monitor,1,$173.34,$173.34,$110.80,$62.54
+SO-2504-10577,04/23/2025,Northeast,MA,,In-Store,Small Business, Furniture ,Standing Desk,3,$281.28,$843.84,$586.71,$257.13
+SO-2503-10578,2025-03-20,West,WA,Seattle,In-Store,Corporate,Office Supplies,Pens,4,$4.37,$17.48,$10.95,$6.53
+SO-2505-10579,05/12/2025, Northeast ,NY,New York,ONLINE,Consumer,Office Supplies,Pens,1,$4.03,$4.03,$2.57,$1.46
+SO-2508-10580,"Aug 31, 2025",Northeast,NJ,Newark,Online,Small Business,Office Supplies,Paper,3,$7.07,$21.21,$12.36,$8.85
+SO-2406-10581,06/06/2024,Northeast,PA,Philadelphia,In-Store,Small Business,Technology,Mouse,2,$19.87,$39.74,$28.45,$11.29
+SO-2409-10582,2024-09-26,South,GA,Atlanta,In-Store,CONSUMER,Furniture,Desk Chair,3,$118.19,$354.57,$255.89,$98.68
+SO-2408-10583,08/16/2024, Midwest ,IL,Chicago,Online,Consumer,Technology,Laptop Stand,5,$27.50,$137.50,$104.24,$33.26
+SO-2502-10584,02/01/2025, Midwest ,IL,Chicago,In-Store,Small Business,Technology,Laptop Stand,2,$32.51,$65.02,$41.46,$23.56
+SO-2503-10585,2025-03-23,West,WA,Seattle,Partner,Small Business,Technology,LAPTOP STAND,2,$26.15,$52.30,$36.20,$16.10
+SO-2408-10586,"Aug 08, 2024",West,AZ,Phoenix,In-Store,Small Business,Office Supplies,Stapler,6,$14.57,$87.42,$58.84,$28.58
+SO-2505-10587,"May 14, 2025",Northeast,NY,New York,Partner,Consumer,Office Supplies,Binders,2,$11.19,$22.38,$13.76,$8.62
+SO-2502-10588,"Feb 06, 2025",Northeast,NJ,Newark,Partner,Consumer,Office Supplies,Binders,5,$9.79,$48.95,$31.59,$17.36
+SO-2402-10589,2024-02-19,Midwest,IL,Chicago,Partner, Consumer ,Technology,Laptop Stand,1,$31.97,$31.97,$20.51,$11.46
+SO-2510-10590,10/19/2025,Midwest,IL,Chicago,ONLINE,Corporate,Technology,Monitor,1,$195.95,$195.95,$123.30,$72.65
+SO-2404-10591,04/30/2024,South,FL,Miami,Partner,Corporate,Furniture,Standing Desk,3,$310.44,$931.32,$681.89,$249.43
+SO-2505-10592,"May 06, 2025",Midwest,MN,Minneapolis,Partner,SMALL BUSINESS,Technology,Laptop Stand,5,$26.45,$132.25,$88.40,$43.85
+SO-2407-10593,07/26/2024,West,CO,Denver, Online ,Corporate,Furniture,Bookshelf,4,$99.01,$396.04,$247.38,$148.66
+SO-2408-10594,2024-08-31,West,AZ,Phoenix,Online,Small Business,Technology,Keyboard,1,$41.23,$41.23,$25.84,$15.39
+SO-2503-10595,03/26/2025,South,TN,Nashville,Partner,Consumer,OFFICE SUPPLIES,PAPER,1,$7.23,$7.23,$4.70,$2.53
+SO-2504-10596,"Apr 29, 2025",South,GA,Atlanta,Online,Consumer,Technology, Monitor ,4,$180.32,$721.28,$538.01,$183.27
+SO-2403-10597,"Mar 13, 2024",South,AL,Birmingham,Online,Corporate,Furniture,Standing Desk,2,$312.44,$624.88,$426.63,$198.25
+SO-2507-10598,"Jul 10, 2025",West,CO,Denver,PARTNER,Corporate, Technology ,Keyboard,2,$37.74,$75.48,$52.94,$22.54
+SO-2410-10599,"Oct 11, 2024",Midwest,IL,Chicago,Partner,Corporate,Office Supplies,Paper,5,$6.84,$34.20,$21.75,$12.45
+SO-2510-10600,10/15/2025,MIDWEST,OH,Columbus,Partner,Small Business,Furniture,Filing Cabinet,1,$137.02,$137.02,$92.29,$44.73
+SO-2410-10601,10/25/2024,South,GA,Atlanta,Partner,Corporate,FURNITURE,Filing Cabinet,4,$152.33,$609.32,$439.64,$169.68
+SO-2504-10602,2025-04-21,Midwest,OH,Columbus,In-Store,Small Business,Technology, Monitor ,1,$185.12,$185.12,$119.10,$66.02
+SO-2406-10603,2024-06-28,Northeast,MA,Boston,In-Store,Corporate,Furniture,Standing Desk,1,$327.86,$327.86,$238.28,$89.58
+SO-2505-10604,05/02/2025,Northeast,NJ,Newark,Partner,Small Business,TECHNOLOGY,Keyboard,1,,$42.55,$30.59,$11.96
+SO-2510-10605,10/27/2025,West,CA,Los Angeles,In-Store,Corporate,Office Supplies, Stapler ,3,$12.57,$37.71,$23.14,$14.57
+SO-2504-10606,04/21/2025,West,CO,Denver,Online,Consumer,Office Supplies,Stapler,1,$14.74,$14.74,$10.24,$4.50
+SO-2505-10607,2025-05-01,Northeast,NY,New York,In-Store,Corporate,Furniture,Standing Desk,4,$329.99,"$1,319.96",$942.27,$377.69
+SO-2412-10608,12/10/2024,MIDWEST,OH,Columbus,Online,Small Business,Furniture,Standing Desk,3,,$810.96,$499.59,$311.37
+SO-2403-10609,03/25/2024,Northeast,MA,Boston,In-Store,,Furniture,Standing Desk,2,$343.12,$686.24,$431.69,$254.55
+SO-2401-10610,2024-01-01,West,CA,Los Angeles,Online,Consumer,Technology,Keyboard,2,$38.55,$77.10,$58.22,$18.88
+SO-2404-10611,04/02/2024,West,AZ,Phoenix,Online,Corporate,Office Supplies,Paper,3,$7.19,$21.57,$13.36,$8.21
+SO-2508-10612,08/28/2025,Midwest,OH,Columbus,Online,Small Business,Office Supplies,Binders,5,$10.21,$51.05,$28.32,$22.73
+SO-2404-10613,"Apr 02, 2024",West,WA,Seattle,Partner,Small Business,Technology,Keyboard,4,$44.73,$178.92,$118.49,$60.43
+SO-2404-10614,"Apr 14, 2024",Midwest,MN,Minneapolis,Online,Corporate,Office Supplies,Binders,3,$10.19,$30.57,$18.31,$12.26
+SO-2508-10615,"Aug 03, 2025",Midwest,MI,Detroit,In-Store,Consumer,Furniture,BOOKSHELF,4,$101.80,$407.20,$268.14,$139.06
+SO-2412-10616,"Dec 07, 2024",NORTHEAST,NY,New York,Partner,CORPORATE,Office Supplies,Pens,2,$4.10,$8.20,$4.77,$3.43
+SO-2402-10617,2024-02-01,West,CA,Los Angeles,Online,Corporate,Furniture,Standing Desk,3,$328.21,$984.63,$582.34,$402.29
+SO-2411-10618,"Nov 08, 2024",West,CA,Los Angeles,Partner,Corporate,Technology,Keyboard,5,$44.19,$220.95,$155.89,$65.06
+SO-2412-10619,2024-12-09,West,CO,Denver,ONLINE,Consumer, Office Supplies ,Paper,5,$6.62,$33.10,$21.22,$11.88
+SO-2508-10620,2025-08-17,South,GA,Atlanta,In-Store,CONSUMER,Technology,Laptop Stand,2,$31.77,$63.54,$47.70,$15.84
+SO-2511-10621,"Nov 05, 2025",West,AZ,Phoenix,Online,Corporate,Technology,Mouse,3,$19.99,$59.97,$37.10,$22.87
+SO-2503-10622,03/07/2025,West,CA,Los Angeles,Partner,Small Business,Office Supplies,Stapler,3,$14.44,$43.32,$30.24,$13.08
+SO-2509-10623,2025-09-09,Midwest,IL,Chicago,Partner,Consumer,Technology,KEYBOARD,2,$38.21,$76.42,$47.28,$29.14
+SO-2511-10624,"Nov 06, 2025",Midwest,MI,Detroit,Online,Corporate,Furniture,Standing Desk,2,$338.54,$677.08,$457.86,$219.22
+SO-2511-10625,"Nov 13, 2025",West,WA,Seattle,Online,Consumer,Furniture,Filing Cabinet,3,$150.58,$451.74,$284.24,$167.50
+SO-2408-10626,08/19/2024, Midwest ,IL,Chicago,Partner,Small Business,Office Supplies,Paper,2,$7.85,$15.70,$9.02,$6.68
+SO-2504-10627,"Apr 04, 2025",Midwest,OH,Columbus,Online,Small Business,Office Supplies,Pens,3,$4.41,$13.23,$9.04,$4.19
+SO-2401-10628,2024-01-01,Midwest,MI,Detroit,In-Store,Small Business,Office Supplies,BINDERS,4,$10.88,$43.52,$24.28,$19.24
+SO-2508-10629,2025-08-17,South,FL,Miami,Online,Corporate,TECHNOLOGY,Mouse,3,$17.93,$53.79,$35.21,$18.58
+SO-2402-10630,02/25/2024, Northeast ,NJ,Newark,In-Store,CONSUMER,Office Supplies,Pens,1,$5.01,$5.01,$2.87,$2.14
+SO-2502-10631,2025-02-06, Northeast ,NJ,Newark, Partner ,Consumer,Furniture,Bookshelf,2,$102.89,$205.78,$144.06,$61.72
+SO-2512-10632,2025-12-14,WEST,AZ,Phoenix,Online,Small Business,Technology,Keyboard,3,$35.62,$106.86,$81.22,$25.64
+SO-2504-10633,"Apr 22, 2025",South,AL,,Partner,Consumer,Technology,Mouse,4,$18.83,$75.32,$49.01,$26.31
+SO-2401-10634,01/07/2024,West,CA,Los Angeles,Online,Small Business,Office Supplies,Binders,1,$9.70,$9.70,$5.60,$4.10
+SO-2404-10635,2024-04-29,West,CA,Los Angeles,Online, Corporate ,OFFICE SUPPLIES,Pens,4,$4.43,$17.72,$9.89,$7.83
+SO-2405-10636,2024-05-10,Midwest,OH,Columbus,In-Store,Consumer,Office Supplies,Stapler,3,$13.82,$41.46,$27.68,$13.78
+SO-2510-10637,10/15/2025,Midwest,MN,Minneapolis,In-Store,Corporate,Technology,Monitor,3,$192.91,$578.73,$381.13,$197.60
+SO-2502-10638,2025-02-08,WEST,CA,Los Angeles, Online ,,Office Supplies,Stapler,4,$11.29,$45.16,$27.85,$17.31
+SO-2501-10639,2025-01-20,NORTHEAST,NJ,Newark,Partner,Consumer,Office Supplies,Paper,1,$6.95,$6.95,$4.22,$2.73
+SO-2504-10640,04/24/2025,South,TN,Nashville,In-Store,Small Business,Furniture,Standing Desk,2,$282.68,$565.36,$370.77,$194.59
+SO-2401-10641,01/26/2024,WEST,WA,Seattle,In-Store,SMALL BUSINESS,Office Supplies,Binders,1,$10.41,$10.41,$7.09,$3.32
+SO-2511-10642,11/29/2025,West,AZ,Phoenix,Partner, Consumer ,Office Supplies,Stapler,4,$13.97,$55.88,$34.66,$21.22
+SO-2504-10643,"Apr 10, 2025",South,AL,Birmingham,Partner,Corporate, Technology ,Laptop Stand,2,$27.32,$54.64,$39.29,$15.35
+SO-2502-10644,"Feb 27, 2025",Midwest,MN,Minneapolis,Partner,Corporate,Office Supplies,Pens,4,$3.91,$15.64,$9.82,$5.82
+SO-2402-10645,02/08/2024,West,WA,Seattle, In-Store ,Small Business, Office Supplies ,Stapler,3,$12.33,$36.99,$22.48,$14.51
+SO-2411-10646,11/01/2024,Northeast,NY,New York, In-Store ,Small Business, Office Supplies ,Paper,6,$6.67,$40.02,$26.71,$13.31
+SO-2506-10647,2025-06-24,West,CA,Los Angeles,Partner,Corporate,Office Supplies,Paper,5,$6.30,$31.50,$18.30,$13.20
+SO-2402-10648,"Feb 05, 2024",Midwest,IL,,Partner,Corporate,Office Supplies,Binders,2,$10.45,$20.90,$12.20,$8.70
+SO-2412-10649,2024-12-21,Midwest,MI,Detroit,Online,Small Business,TECHNOLOGY,Keyboard,2,$37.19,$74.38,$46.76,$27.62
