@@ -14,12 +14,16 @@ Power BI (DAX, data modeling)
 
 Python (pandas)
 
-Projects Included
+## Projects
 
-Sales Dashboard (Power BI)
+### 📊 [Power BI Sales Dashboard](./PowerBI-Sales-Dashboard)
+Interactive dashboard analyzing revenue and profit trends.
 
-Sales KPI Dashboard (Excel)
+### 📈 [Excel Sales KPI Dashboard](./Excel-Sales-Dashboard)
+PivotTable-based dashboard summarizing business performance.
 
-Order Management Database (MySQL)
+### 🗄 [MySQL Order Management Database](./MySQL-Order-Database)
+Relational database with SQL queries for revenue analysis.
 
-Data Cleaning Script (Python)
+### 🐍 [Python Data Cleaning Script](./Python-Data-Cleaning)
+Beginner-level data cleaning and summary reporting using pandas.
