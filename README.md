@@ -27,3 +27,5 @@ Relational database with SQL queries for revenue analysis.
 
 ### 🐍 [Python Data Cleaning Script](./Python-Data-Cleaning)
 Beginner-level data cleaning and summary reporting using pandas.
+![Dashboard Screenshot](dashboard.png)
+
